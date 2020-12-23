@@ -1,0 +1,3955 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Thim Course Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-01 22:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: elements/post-block-1/tpl/default.php:39
+#: elements/post-block-1/tpl/default.php:62
+msgid " / "
+msgstr ""
+
+#: elements/courses-block-1/tpl/default.php:100
+#: elements/courses-block-1/tpl/lp3/default.php:124
+msgid " Student"
+msgstr ""
+
+#: elements/courses-block-1/tpl/default.php:98
+#: elements/courses-block-1/tpl/lp3/default.php:122
+msgid " Students"
+msgstr ""
+
+#: elements/courses-block-4/tpl/default.php:154
+#, php-format
+msgid "%1$s Star"
+msgid_plural "%1$s Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elements/courses-carousel/tpl/default.php:149
+#: elements/courses-carousel/tpl/lp3/default.php:192
+#, php-format
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elements/courses-collection/courses-collection.php:245
+#, php-format
+msgid "%d course"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:243
+#, php-format
+msgid "%d courses"
+msgstr ""
+
+#: elements/courses-block-3/tpl/default.php:158
+#: elements/courses-block-3/tpl/lp3/default.php:183
+#, php-format
+msgid "%s student"
+msgid_plural "%s students"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elements/courses-block-4/tpl/default.php:134
+#, php-format
+msgid "( %1$s vote )"
+msgid_plural "( %1$s votes )"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elements/courses-block-4/tpl/default.php:134
+msgid "( 0 vote )"
+msgstr ""
+
+#: elements/courses-carousel/tpl/style-1.php:90
+#: elements/courses-carousel/tpl/default.php:91
+#: elements/courses-carousel/tpl/lp3/style-1.php:108
+#: elements/courses-carousel/tpl/lp3/default.php:113
+#, php-format
+msgid "(%1$s vote )"
+msgid_plural " (%1$s votes)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elements/courses-block-3/tpl/default.php:96
+#: elements/courses-block-3/tpl/lp3/default.php:130
+#, php-format
+msgid "(%1$s vote)"
+msgid_plural "(%1$s votes)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elements/courses-block-3/tpl/default.php:96
+#: elements/courses-block-3/tpl/lp3/default.php:130
+msgid "(0 vote)"
+msgstr ""
+
+#: elements/course-search/course-search-el.php:56
+#: elements/counter-box/counter-box.php:68
+#: elements/counter-box/counter-box-el.php:46
+msgid "* Counter Box Style"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:109
+#: elements/counter-box/counter-box.php:232
+#: elements/counter-box/counter-box.php:286
+#: elements/counter-box/counter-box.php:340
+#: elements/counter-box/counter-box.php:394
+#: elements/counter-box/counter-box-el.php:87
+msgid "* Quantity"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:266
+msgid "* Quantity 1"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:338
+msgid "* Quantity 2"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:410
+msgid "* Quantity 3"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:482
+msgid "* Quantity 4"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:139
+#: elements/counter-box/counter-box-el.php:129
+msgid "-- No Icon --"
+msgstr ""
+
+#: elements/courses-block-4/tpl/default.php:154
+msgid "0 Star"
+msgstr ""
+
+#: elements/courses-megamenu/courses-megamenu-el.php:50
+#: elements/courses-megamenu/courses-megamenu.php:65
+#: elements/post-block-1/post-block-1.php:82
+#: elements/post-block-1/post-block-1-el.php:76
+#: elements/courses-collection/courses-collection-el.php:143
+#: elements/courses-collection/courses-collection.php:158
+msgid "1"
+msgstr ""
+
+#: elements/heading/heading.php:197 elements/heading/heading-el.php:203
+msgid "100"
+msgstr ""
+
+#: elements/courses-megamenu/courses-megamenu-el.php:51
+#: elements/courses-megamenu/courses-megamenu.php:66
+#: elements/portfolio/portfolio-el.php:60 elements/portfolio/portfolio.php:80
+#: elements/new-post/new-post-el.php:117 elements/new-post/new-post.php:124
+#: elements/instructors/instructors-el.php:51
+#: elements/new-instructor/new-instructor.php:63
+#: elements/new-instructor/new-instructor-el.php:49
+#: elements/post-block-1/post-block-1.php:83
+#: elements/post-block-1/post-block-1-el.php:75
+#: elements/courses-collection/courses-collection-el.php:144
+#: elements/courses-collection/courses-collection.php:157
+msgid "2"
+msgstr ""
+
+#: elements/heading/heading.php:198 elements/heading/heading-el.php:204
+msgid "200"
+msgstr ""
+
+#: elements/gallery/gallery.php:84 elements/gallery/gallery-el.php:65
+#: elements/courses-block-3/courses-block-3-el.php:86
+#: elements/courses-block-3/courses-block-3.php:107
+#: elements/courses-megamenu/courses-megamenu-el.php:52
+#: elements/courses-megamenu/courses-megamenu.php:67
+#: elements/portfolio/portfolio-el.php:59 elements/portfolio/portfolio.php:79
+#: elements/courses-carousel/courses-carousel-el.php:124
+#: elements/courses-carousel/courses-carousel.php:138
+#: elements/new-post/new-post-el.php:118 elements/new-post/new-post.php:125
+#: elements/pricing/pricing.php:129 elements/pricing/pricing-el.php:122
+#: elements/instructors/instructors.php:72
+#: elements/instructors/instructors-el.php:49
+#: elements/new-instructor/new-instructor.php:61
+#: elements/new-instructor/new-instructor-el.php:47
+#: elements/post-block-1/post-block-1.php:84
+#: elements/post-block-1/post-block-1-el.php:74
+#: elements/courses-block-4/courses-block-4-el.php:73
+#: elements/courses-block-4/courses-block-4.php:93
+#: elements/courses-collection/courses-collection-el.php:145
+#: elements/courses-collection/courses-collection.php:156
+msgid "3"
+msgstr ""
+
+#: elements/heading/heading.php:199 elements/heading/heading-el.php:205
+msgid "300"
+msgstr ""
+
+#: elements/gallery/gallery.php:85 elements/gallery/gallery-el.php:66
+#: elements/courses-block-3/courses-block-3-el.php:87
+#: elements/courses-block-3/courses-block-3.php:108
+#: elements/courses-megamenu/courses-megamenu-el.php:53
+#: elements/courses-megamenu/courses-megamenu.php:68
+#: elements/portfolio/portfolio-el.php:58 elements/portfolio/portfolio.php:78
+#: elements/courses-carousel/courses-carousel-el.php:125
+#: elements/courses-carousel/courses-carousel.php:139
+#: elements/new-post/new-post-el.php:119 elements/new-post/new-post.php:126
+#: elements/pricing/pricing.php:130 elements/pricing/pricing-el.php:123
+#: elements/instructors/instructors.php:73
+#: elements/instructors/instructors-el.php:50
+#: elements/new-instructor/new-instructor.php:62
+#: elements/new-instructor/new-instructor-el.php:48
+#: elements/post-block-1/post-block-1.php:85
+#: elements/post-block-1/post-block-1-el.php:73
+#: elements/courses-block-4/courses-block-4-el.php:74
+#: elements/courses-block-4/courses-block-4.php:94
+#: elements/courses-collection/courses-collection-el.php:146
+#: elements/courses-collection/courses-collection.php:155
+msgid "4"
+msgstr ""
+
+#: elements/heading/heading.php:200 elements/heading/heading-el.php:206
+msgid "400"
+msgstr ""
+
+#: elements/gallery/gallery.php:86 elements/gallery/gallery-el.php:67
+#: elements/new-post/new-post-el.php:120 elements/new-post/new-post.php:127
+#: elements/courses-collection/courses-collection-el.php:147
+#: elements/courses-collection/courses-collection.php:154
+msgid "5"
+msgstr ""
+
+#: elements/heading/heading.php:201 elements/heading/heading-el.php:207
+msgid "500"
+msgstr ""
+
+#: elements/gallery/gallery.php:87 elements/gallery/gallery-el.php:68
+#: elements/instructors/instructors.php:74
+msgid "6"
+msgstr ""
+
+#: elements/heading/heading.php:202 elements/heading/heading-el.php:208
+msgid "600"
+msgstr ""
+
+#: elements/heading/heading.php:203 elements/heading/heading-el.php:209
+msgid "700"
+msgstr ""
+
+#: elements/heading/heading.php:204 elements/heading/heading-el.php:210
+msgid "800"
+msgstr ""
+
+#: elements/heading/heading.php:205 elements/heading/heading-el.php:211
+msgid "900"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:97
+#: elements/login-form/login-form.php:96
+msgid "Account Page URL"
+msgstr ""
+
+#: elements/brands/brands.php:130
+msgid ""
+"Add extra class name for Thim Brands shortcode to use in CSS customizations."
+msgstr ""
+
+#: elements/button/button.php:140
+msgid ""
+"Add extra class name for Thim Button shortcode to use in CSS customizations."
+msgstr ""
+
+#: elements/count-down/count-down.php:102
+msgid ""
+"Add extra class name for Thim Countdown shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/counter-box/counter-box.php:451
+msgid ""
+"Add extra class name for Thim Counter Box shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/review-course/review-course.php:84
+msgid ""
+"Add extra class name for Thim Course Reviews shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/courses-carousel/courses-carousel.php:158
+msgid ""
+"Add extra class name for Thim Courses Carousel shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/enroll-course/enroll-course.php:77
+msgid ""
+"Add extra class name for Thim Enroll Course shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/events/events.php:138
+msgid ""
+"Add extra class name for Thim Events shortcode to use in CSS customizations."
+msgstr ""
+
+#: elements/features-list/features-list.php:105
+msgid ""
+"Add extra class name for Thim Features List shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/gallery/gallery.php:121 elements/portfolio/portfolio.php:131
+#: elements/gallery-carousel/gallery-carousel.php:109
+msgid ""
+"Add extra class name for Thim Gallery Carousel shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/google-map/google-map.php:182
+msgid ""
+"Add extra class name for Thim Google Map shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/heading/heading.php:140
+msgid ""
+"Add extra class name for Thim Heading shortcode to use in CSS customizations."
+msgstr ""
+
+#: elements/icon-box/icon-box.php:196
+msgid ""
+"Add extra class name for Thim Icon Box shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:112
+#: elements/image-box/image-box.php:127
+msgid ""
+"Add extra class name for Thim Image Box shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/login-form/login-form.php:185
+#: elements/register-form/register-form.php:97
+msgid ""
+"Add extra class name for Thim Login shortcode to use in CSS customizations."
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:135
+msgid ""
+"Add extra class name for Thim Photo Wall shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/post-block-1/post-block-1.php:105
+msgid ""
+"Add extra class name for Thim Post Block shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/new-post/new-post.php:162 elements/posts/posts.php:98
+msgid ""
+"Add extra class name for Thim Posts shortcode to use in CSS customizations."
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading.php:112
+msgid ""
+"Add extra class name for Thim Scroll Heading shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/course-search/course-search.php:89
+msgid ""
+"Add extra class name for Thim Search Courses shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:130
+msgid ""
+"Add extra class name for Thim Skills Bar shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/social-links/social-links.php:89
+msgid ""
+"Add extra class name for Thim Social Links shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/steps/steps.php:245
+msgid ""
+"Add extra class name for Thim Steps shortcode to use in CSS customizations."
+msgstr ""
+
+#: elements/testimonials/testimonials.php:151
+msgid ""
+"Add extra class name for Thim Testimonials shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/text-box/text-box.php:113
+msgid ""
+"Add extra class name for Thim Text Box shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/user-info/user-info.php:67
+msgid ""
+"Add extra class name for Thim User Info shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/video-box/video-box.php:140 elements/new-video/new-video.php:102
+msgid ""
+"Add extra class name for Thim Video Box shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/introduction-box/introduction-box.php:113
+msgid ""
+"Add extra class name for Thim: Introduction Box shortcode to use in CSS "
+"customizations."
+msgstr ""
+
+#: elements/instructors/instructors.php:138
+#: elements/new-instructor/new-instructor.php:85
+msgid ""
+"Add extra class name that will be applied to the icon box, and you can use "
+"this class for your customizations."
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:170
+msgid "Add extra class name."
+msgstr ""
+
+#: elements/new-post/new-post-el.php:87
+msgid "add ID post want show"
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:82
+msgid "Add link for title."
+msgstr ""
+
+#: elements/login-form/login-form.php:34
+msgid "Add login form."
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:29
+msgid "Add Tabs"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:132
+#: elements/new-iconbox/new-iconbox.php:140
+msgid "Add title."
+msgstr ""
+
+#: elements/heading/heading.php:164 elements/heading/heading-el.php:176
+msgid "Advanced"
+msgstr ""
+
+#. Description of the plugin
+msgid "Advanced features for Course Builder theme."
+msgstr ""
+
+#: elements/heading/heading.php:110
+msgid "Align Heading"
+msgstr ""
+
+#: elements/events/events-el.php:50 elements/events/events-el.php:61
+#: elements/events/events.php:69 elements/events/events.php:78
+#: elements/gallery/gallery-el.php:54
+#: elements/courses-megamenu/courses-megamenu.php:90
+#: elements/courses-carousel/courses-carousel-el.php:70
+#: elements/courses-carousel/courses-carousel.php:217
+#: elements/post-block-1/post-block-1-el.php:62
+#: elements/gallery/tpl/default.php:85
+#: elements/courses-block-3/tpl/default.php:196
+#: elements/portfolio/tpl/default.php:96
+#: elements/courses-block-3/tpl/lp3/default.php:221
+msgid "All"
+msgstr ""
+
+#: elements/events/events-el.php:62 elements/events/events.php:79
+msgid "All (NOT expired)"
+msgstr ""
+
+#: elements/instructors/instructors.php:125
+#: elements/instructors/instructors-el.php:73
+msgid "All Administrator + Instructor"
+msgstr ""
+
+#: elements/google-map/google-map.php:141
+msgid "Allow dragging mouse to move around the map."
+msgstr ""
+
+#: elements/google-map/google-map.php:133
+msgid "Allow scrolling on the map to zoom in or out."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:153
+msgid "Are you a member? "
+msgstr ""
+
+#: elements/events/events-el.php:102 elements/events/events.php:115
+msgid "ASC"
+msgstr ""
+
+#: elements/steps/steps.php:134 elements/steps/steps-el.php:148
+#: elements/introduction-box/introduction-box.php:95
+#: elements/introduction-box/introduction-box-el.php:113
+msgid "Background Image"
+msgstr ""
+
+#: elements/new-image-box/tpl/default.php:30
+msgid "Background Image Box"
+msgstr ""
+
+#: elements/new-video/new-video-el.php:69
+msgid "Background left"
+msgstr ""
+
+#: elements/new-video/new-video-el.php:58
+msgid "Background right"
+msgstr ""
+
+#: elements/button/button-el.php:89 elements/button/button.php:92
+msgid "Basic"
+msgstr ""
+
+#: elements/heading/heading.php:196 elements/heading/heading-el.php:202
+msgid "Bold"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:146
+#: elements/new-iconbox/new-iconbox.php:148
+msgid "Border Left"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:105
+#: elements/counter-box/counter-box.php:236
+#: elements/counter-box/counter-box.php:246
+#: elements/counter-box/counter-box.php:256
+#: elements/counter-box/counter-box.php:266
+#: elements/counter-box/counter-box.php:276
+#: elements/counter-box/counter-box-el.php:217
+msgid "Box Settings"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:290
+#: elements/counter-box/counter-box.php:300
+#: elements/counter-box/counter-box.php:310
+#: elements/counter-box/counter-box.php:320
+#: elements/counter-box/counter-box.php:330
+msgid "Box Settings 2"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:344
+#: elements/counter-box/counter-box.php:354
+#: elements/counter-box/counter-box.php:364
+#: elements/counter-box/counter-box.php:374
+#: elements/counter-box/counter-box.php:384
+msgid "Box Settings 3"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:398
+#: elements/counter-box/counter-box.php:408
+#: elements/counter-box/counter-box.php:418
+#: elements/counter-box/counter-box.php:428
+#: elements/counter-box/counter-box.php:438
+msgid "Box Settings 4"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:129
+#: elements/counter-box/counter-box.php:254
+#: elements/counter-box/counter-box.php:308
+#: elements/counter-box/counter-box.php:362
+#: elements/counter-box/counter-box.php:416
+#: elements/counter-box/counter-box-el.php:116
+#: elements/counter-box/counter-box-el.php:118
+msgid "Box title"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:291
+#: elements/counter-box/counter-box-el.php:293
+msgid "Box title 1"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:363
+#: elements/counter-box/counter-box-el.php:365
+msgid "Box title 2"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:435
+#: elements/counter-box/counter-box-el.php:437
+msgid "Box title 3"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:507
+#: elements/counter-box/counter-box-el.php:509
+msgid "Box title 4"
+msgstr ""
+
+#: elements/brands/brands.php:75 elements/brands/brands-el.php:50
+msgid "Brand Image"
+msgstr ""
+
+#: elements/brands/brands.php:80 elements/brands/brands-el.php:61
+#: elements/brands/brands-el.php:63
+msgid "Brand Link"
+msgstr ""
+
+#: elements/brands/brands.php:69
+msgid "Brands"
+msgstr ""
+
+#: elements/brands/brands-el.php:71
+msgid "Brands List"
+msgstr ""
+
+#: elements/brands/brands-el.php:41
+msgid "Brands Settings"
+msgstr ""
+
+#: elements/text-box/text-box-el.php:118 elements/text-box/text-box.php:102
+msgid "Button"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2-el.php:77
+#: elements/button/button-el.php:54 elements/button/button.php:65
+#: elements/pricing/pricing.php:107 elements/pricing/pricing-el.php:88
+#: elements/pricing/pricing-el.php:90
+msgid "Button Link"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:82
+msgid "Button link:"
+msgstr ""
+
+#: elements/button/button-el.php:99 elements/button/button.php:101
+msgid "Button Separator"
+msgstr ""
+
+#: elements/button/button-el.php:37
+msgid "Button Settings"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:115
+msgid "Button Text"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2-el.php:67
+#: elements/courses-block-2/courses-block-2-el.php:69
+#: elements/courses-block-3/courses-block-3-el.php:64
+#: elements/courses-block-3/courses-block-3-el.php:66
+#: elements/pricing/pricing.php:100 elements/pricing/pricing-el.php:78
+#: elements/pricing/pricing-el.php:80
+#: elements/courses-block-4/courses-block-4-el.php:60
+#: elements/courses-block-4/courses-block-4-el.php:62
+msgid "Button text"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:114
+msgid "Button Text:"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:73
+#: elements/courses-block-3/courses-block-3.php:83
+#: elements/courses-block-4/courses-block-4.php:80
+msgid "Button text:"
+msgstr ""
+
+#: elements/button/button-el.php:44 elements/button/button-el.php:46
+#: elements/button/button.php:58
+msgid "Button Title"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:38
+#: elements/enroll-course/tpl/default.php:54
+#: elements/enroll-course/tpl/default.php:80
+#: elements/enroll-course/tpl/default.php:95
+msgid "Buy this course"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1-el.php:56
+#: elements/courses-block-1/courses-block-1.php:75
+#: elements/courses-block-2/courses-block-2-el.php:106
+#: elements/courses-block-3/courses-block-3-el.php:101
+#: elements/courses-block-3/courses-block-3.php:121
+#: elements/courses-megamenu/courses-megamenu-el.php:67
+#: elements/courses-megamenu/courses-megamenu.php:81
+#: elements/courses-carousel/courses-carousel-el.php:58
+#: elements/courses-carousel/courses-carousel.php:78
+#: elements/courses-block-4/courses-block-4-el.php:88
+#: elements/courses-block-4/courses-block-4.php:107
+msgid "Category"
+msgstr ""
+
+#: elements/button/button-el.php:126 elements/button/button.php:128
+#: elements/heading/heading.php:114 elements/heading/heading-el.php:118
+msgid "Center"
+msgstr ""
+
+#: elements/google-map/google-map.php:198
+msgid "Center St Newton Center, Boston, United States"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:210
+msgid "Change Password"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:211
+msgid "Change password your account"
+msgstr ""
+
+#: elements/courses-block-3/courses-block-3.php:94
+msgid "Check yes to hide the course category filter bar"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1.php:91
+#: elements/courses-block-2/courses-block-2.php:109
+#: elements/courses-block-3/courses-block-3.php:137
+#: elements/courses-megamenu/courses-megamenu.php:97
+#: elements/courses-carousel/courses-carousel.php:101
+#: elements/courses-block-4/courses-block-4.php:123
+msgid "Check yes to only show the featured courses."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:286
+msgid "Check your email to get a link to create a new password."
+msgstr ""
+
+#: elements/video-box/video-box-el.php:81 elements/video-box/video-box.php:89
+msgid "Choose background image"
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:112
+msgid "Choose Color Title"
+msgstr ""
+
+#: elements/heading/heading.php:156
+msgid "Choose heading element."
+msgstr ""
+
+#: elements/post-block-1/post-block-1.php:96
+msgid "Choose how many posts to show"
+msgstr ""
+
+#: elements/gallery/gallery.php:99
+msgid "Choose how many to show"
+msgstr ""
+
+#: elements/new-video/new-video.php:83
+msgid "Choose icon background bottom"
+msgstr ""
+
+#: elements/new-video/new-video.php:75
+msgid "Choose icon background right"
+msgstr ""
+
+#: elements/events/events.php:92
+msgid "Choose number of events to show"
+msgstr ""
+
+#: elements/new-post/new-post.php:84 elements/posts/posts.php:78
+msgid "Choose number of posts to show"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:96
+#: elements/google-map/google-map.php:121
+msgid "Choose pinpoint marker icon"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:134
+#: elements/google-map/google-map.php:156
+msgid "Choose preload cover image"
+msgstr ""
+
+#: elements/video-box/video-box-el.php:70 elements/video-box/video-box.php:80
+#: elements/new-video/new-video.php:67
+msgid "Choose video thumbnail image"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:60
+#: elements/new-iconbox/new-iconbox-el.php:72
+#: elements/icon-box/icon-box-el.php:60 elements/icon-box/icon-box-el.php:72
+#: elements/steps/steps-el.php:210 elements/steps/steps-el.php:222
+#: elements/counter-box/counter-box-el.php:143
+#: elements/counter-box/counter-box-el.php:155
+msgid "Choose..."
+msgstr ""
+
+#: elements/counter-box/counter-box.php:74
+#: elements/counter-box/counter-box-el.php:51
+msgid "Circle"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading-el.php:58
+msgid "Class"
+msgstr ""
+
+#: elements/pricing/pricing.php:71
+msgid ""
+"Click plus icon to add a new social icon. Then click dropdown icon to choose "
+"which social icon and config its settings"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:105
+msgid "Collection Description"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:106
+msgid "Collection Description:"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:95
+#: elements/courses-collection/courses-collection-el.php:97
+msgid "Collection Title"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:98
+msgid "Collection Title:"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:55 elements/new-post/new-post-el.php:114
+#: elements/new-post/new-post.php:121 elements/instructors/instructors.php:68
+#: elements/instructors/instructors-el.php:46
+#: elements/new-instructor/new-instructor.php:57
+msgid "Columns"
+msgstr ""
+
+#: elements/portfolio/portfolio.php:74
+msgid "Columns:"
+msgstr ""
+
+#: elements/new-instructor/new-instructor-el.php:44
+msgid "Colums"
+msgstr ""
+
+#: elements/courses-carousel/tpl/style-1.php:130
+#: elements/courses-carousel/tpl/default.php:118
+#: elements/courses-carousel/tpl/lp3/style-1.php:145
+#: elements/courses-carousel/tpl/lp3/default.php:146
+msgid "Coming Soon"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:246
+msgid "Confirm new password *"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:99
+#: elements/register-form/tpl/default.php:61
+msgid "Confirm Password"
+msgstr ""
+
+#: elements/count-down/count-down-el.php:79
+#: elements/count-down/count-down.php:90
+msgid "Contact Form"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:139
+#: elements/testimonials/testimonials-el.php:141
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:76
+msgid "Content"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:88
+msgid "Content align"
+msgstr ""
+
+#: elements/image-box/image-box.php:102 elements/image-box/image-box-el.php:103
+msgid "Content Background Image"
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:95
+msgid "Content float"
+msgstr ""
+
+#: elements/enroll-course/tpl/lp3/default.php:62
+msgid "Continue Shopping"
+msgstr ""
+
+#: elements/count-down/count-down-el.php:56
+#: elements/count-down/count-down.php:70
+msgid "Countdown Date"
+msgstr ""
+
+#: elements/count-down/count-down-el.php:49
+msgid "Countdown Settings"
+msgstr ""
+
+#: elements/count-down/count-down-el.php:65
+#: elements/count-down/count-down-el.php:67
+#: elements/count-down/count-down.php:78
+msgid "Countdown Title"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:39
+msgid "Counter Box Settings"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:259
+msgid "Counter Box Settings Circle 1"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:331
+msgid "Counter Box Settings Circle 2"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:403
+msgid "Counter Box Settings Circle 3"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:475
+msgid "Counter Box Settings Circle 4"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:81
+#: elements/counter-box/counter-box-el.php:60
+#: elements/counter-box/counter-box-el.php:62
+msgid "Counter Box Title"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2-el.php:57
+msgid "Course Block Description"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:65
+msgid "Course Block Description:"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2-el.php:47
+#: elements/courses-block-2/courses-block-2-el.php:49
+#: elements/courses-block-3/courses-block-3-el.php:54
+#: elements/courses-block-3/courses-block-3-el.php:56
+#: elements/courses-block-4/courses-block-4-el.php:50
+#: elements/courses-block-4/courses-block-4-el.php:52
+msgid "Course Block Title"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:57
+#: elements/courses-block-3/courses-block-3.php:75
+#: elements/courses-block-4/courses-block-4.php:72
+msgid "Course Block Title:"
+msgstr ""
+
+#: elements/enroll-course/enroll-course.php:57
+#: elements/enroll-course/enroll-course-el.php:44
+#: elements/review-course/review-course.php:56
+#: elements/review-course/review-course-el.php:44
+msgid "Course ID"
+msgstr ""
+
+#: elements/enroll-course/enroll-course.php:58
+#: elements/review-course/review-course.php:57
+msgid "Course ID shows in the URL when viewing a course single page"
+msgstr ""
+
+#: elements/review-course/review-course-el.php:37
+msgid "Course Reviews Settings"
+msgstr ""
+
+#: elements/course-search/course-search-el.php:39
+msgid "Course Search Settings"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1-el.php:44
+msgid "Courses Block 1 Settings"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2-el.php:40
+msgid "Courses Block 2 Settings"
+msgstr ""
+
+#: elements/gallery/gallery-el.php:44
+#: elements/courses-block-3/courses-block-3-el.php:47
+msgid "Courses Block 3 Settings"
+msgstr ""
+
+#: elements/courses-block-4/courses-block-4-el.php:43
+msgid "Courses Block 4 Settings"
+msgstr ""
+
+#: elements/courses-carousel/courses-carousel-el.php:46
+msgid "Courses Carousel"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:44
+msgid "Courses Collection Settings"
+msgstr ""
+
+#: elements/instructors/instructors.php:124
+#: elements/instructors/instructors-el.php:72
+msgid "Courses Instructor"
+msgstr ""
+
+#: elements/instructors/instructors.php:126
+#: elements/instructors/instructors-el.php:74
+msgid "Courses Instructor Corporate"
+msgstr ""
+
+#: elements/instructors/instructors.php:127
+#: elements/instructors/instructors-el.php:75
+msgid "Courses Instructor Test Prep"
+msgstr ""
+
+#: elements/courses-megamenu/courses-megamenu-el.php:40
+msgid "Courses Megamenu Settings"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:97
+#: elements/photo-wall/photo-wall-el.php:100
+msgid "Crop Images"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:116
+#: elements/counter-box/counter-box-el.php:96
+#: elements/counter-box/counter-box-el.php:98
+msgid "Currency"
+msgstr ""
+
+#: elements/heading/heading.php:167
+msgid "Custom heading"
+msgstr ""
+
+#: elements/heading/heading.php:180
+msgid "Custom title font size."
+msgstr ""
+
+#: elements/heading/heading.php:228
+msgid "Custom title font style."
+msgstr ""
+
+#: elements/heading/heading.php:207
+msgid "Custom title font weight."
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2-el.php:59
+msgid ""
+"Customize your online school with an intuitive user interface. Design your "
+"homepage and lectures."
+msgstr ""
+
+#: elements/count-down/tpl/default.php:8 elements/count-down/tpl/default.php:26
+msgid "Day(s)"
+msgstr ""
+
+#: elements/features-list/features-list.php:67
+#: elements/features-list/features-list-el.php:57
+#: elements/icon-box/icon-box.php:132 elements/icon-box/icon-box-el.php:137
+#: elements/count-down/count-down-el.php:78
+#: elements/count-down/count-down.php:89
+#: elements/google-map/google-map-el.php:151
+#: elements/google-map/google-map.php:170 elements/steps/steps.php:102
+#: elements/steps/steps-el.php:108
+#: elements/courses-carousel/courses-carousel-el.php:93
+#: elements/courses-carousel/courses-carousel.php:111
+#: elements/course-search/course-search.php:75
+#: elements/course-search/course-search-el.php:59
+#: elements/text-box/text-box-el.php:75 elements/text-box/text-box.php:73
+msgid "Default"
+msgstr ""
+
+#: elements/events/events-el.php:103 elements/events/events.php:116
+msgid "DESC"
+msgstr ""
+
+#: elements/steps/steps.php:112 elements/steps/steps-el.php:121
+#: elements/steps/steps-el.php:123
+msgid "Description"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:83
+msgid "Disable Carousel Feature"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:84
+msgid "Disable Carousel Feature:"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:44
+#: elements/login-form/login-form.php:56
+msgid "Display"
+msgstr ""
+
+#: elements/button/button.php:34
+msgid "Display a button."
+msgstr ""
+
+#: elements/count-down/count-down.php:34
+msgid "Display a countdown timer."
+msgstr ""
+
+#: elements/counter-box/counter-box.php:34
+msgid "Display a counter box."
+msgstr ""
+
+#: elements/courses-megamenu/courses-megamenu.php:36
+msgid "Display a courses"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1.php:34
+#: elements/courses-block-2/courses-block-2.php:34
+#: elements/courses-block-3/courses-block-3.php:42
+#: elements/courses-block-4/courses-block-4.php:42
+msgid "Display a courses block"
+msgstr ""
+
+#: elements/courses-carousel/courses-carousel.php:34
+msgid "Display a courses carousel."
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:34
+msgid "Display a courses collection"
+msgstr ""
+
+#: elements/events/events.php:34
+msgid "Display a events list."
+msgstr ""
+
+#: elements/google-map/google-map.php:34
+msgid "Display a Google Map location."
+msgstr ""
+
+#: elements/heading/heading.php:34
+msgid "Display a heading."
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:34
+msgid "Display a icon box."
+msgstr ""
+
+#: elements/image-box/image-box.php:34
+msgid "Display a image box."
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading.php:34
+msgid "Display a link/button scroll."
+msgstr ""
+
+#: elements/features-list/features-list.php:34
+msgid "Display a list of features."
+msgstr ""
+
+#: elements/social-links/social-links.php:34
+msgid "Display a list of your social accounts."
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:34
+msgid "Display a new image box."
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:34
+msgid "Display a photos wall collection."
+msgstr ""
+
+#: elements/new-post/new-post.php:33 elements/posts/posts.php:33
+msgid "Display a post list."
+msgstr ""
+
+#: elements/post-block-1/post-block-1.php:34
+msgid "Display a posts collection."
+msgstr ""
+
+#: elements/pricing/pricing.php:35
+msgid "Display a pricing table"
+msgstr ""
+
+#: elements/register-form/register-form.php:34
+msgid "Display a register form."
+msgstr ""
+
+#: elements/course-search/course-search.php:34
+msgid "Display a search box to search for courses."
+msgstr ""
+
+#: elements/introduction-box/introduction-box.php:42
+msgid "Display a section for introductory purpose"
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:34
+msgid "Display a skill bar."
+msgstr ""
+
+#: elements/steps/steps.php:34
+msgid "Display a steps box."
+msgstr ""
+
+#: elements/testimonials/testimonials.php:34
+msgid "Display a testimonials box."
+msgstr ""
+
+#: elements/text-box/text-box.php:34
+msgid "Display a Text Box."
+msgstr ""
+
+#: elements/video-box/video-box.php:34
+msgid "Display a video box."
+msgstr ""
+
+#: elements/new-video/new-video.php:34
+msgid "Display a video."
+msgstr ""
+
+#: elements/icon-box/icon-box.php:34
+msgid "Display an icon box."
+msgstr ""
+
+#: elements/brands/brands.php:34
+msgid "Display brands slider"
+msgstr ""
+
+#: elements/enroll-course/enroll-course.php:34
+msgid "Display button Enroll Course by ID."
+msgstr ""
+
+#: elements/login-form/login-form.php:128
+#: elements/register-form/register-form.php:56
+msgid "Display Captcha"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:159
+#: elements/login-form/login-form.php:159
+#: elements/register-form/register-form.php:71
+msgid "Display field phone"
+msgstr ""
+
+#: elements/login-form/login-form.php:166
+#: elements/register-form/register-form.php:78
+msgid "Display First Name"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel.php:34
+msgid "Display gallery carousel"
+msgstr ""
+
+#: elements/gallery/gallery.php:34
+msgid "Display gallery posts"
+msgstr ""
+
+#: elements/google-map/google-map.php:62
+msgid "Display Google map."
+msgstr ""
+
+#: elements/user-info/user-info.php:33
+msgid "Display information of an user"
+msgstr ""
+
+#: elements/login-form/login-form.php:173
+#: elements/register-form/register-form.php:85
+msgid "Display Last Name"
+msgstr ""
+
+#: elements/instructors/instructors.php:34
+#: elements/new-instructor/new-instructor.php:34
+msgid "Display list of instructors"
+msgstr ""
+
+#: elements/portfolio/portfolio.php:34
+msgid "Display Portfolio"
+msgstr ""
+
+#: elements/review-course/review-course.php:33
+msgid "Display reviews for course"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:46
+msgid "Draft"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:116
+#: elements/google-map/google-map.php:139
+msgid "Draggable"
+msgstr ""
+
+#: elements/introduction-box/introduction-box.php:101
+#: elements/introduction-box/introduction-box-el.php:124
+#: elements/introduction-box/introduction-box-el.php:126
+msgid "Element ID"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:81
+msgid "Email Address"
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:116
+#: elements/skills-bar/skills-bar-el.php:99
+msgid "EmptyFill Color"
+msgstr ""
+
+#: elements/login-form/login-form.php:116
+msgid "Enable Login Popup"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:39
+#: elements/enroll-course/tpl/default.php:96
+msgid "Enroll"
+msgstr ""
+
+#: elements/enroll-course/enroll-course-el.php:37
+msgid "Enroll Course Settings"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:49
+#: elements/google-map/google-map.php:74
+msgid "Enter a location. It can be a town, city, country or exact address."
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:76
+#: elements/skills-bar/skills-bar-el.php:52
+msgid "Enter a Number"
+msgstr ""
+
+#: elements/image-box/image-box.php:67
+msgid "Enter a number to show on the image"
+msgstr ""
+
+#: elements/google-map/google-map.php:107
+msgid "Enter a value from 0 (world level) to 21 (street level)."
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:83
+msgid "Enter button link to course archive page"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:74
+#: elements/courses-block-3/courses-block-3.php:84
+#: elements/courses-block-4/courses-block-4.php:81
+#: elements/courses-collection/courses-collection-el.php:117
+#: elements/courses-collection/courses-collection.php:116
+msgid "Enter button text linked to course archive page"
+msgstr ""
+
+#: elements/introduction-box/introduction-box.php:104
+#, php-format
+msgid ""
+"Enter element ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: elements/google-map/google-map-el.php:59
+msgid ""
+"Enter Google Map API Key. Get an API Key https://developers.google."
+"com/maps/documentation/javascript/get-api-key#get-an-api-key"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:112
+#: elements/counter-box/counter-box.php:235
+#: elements/counter-box/counter-box.php:289
+#: elements/counter-box/counter-box.php:343
+#: elements/counter-box/counter-box.php:397
+msgid "Enter quantity number"
+msgstr ""
+
+#: elements/events/events-el.php:40
+msgid "Event Settings"
+msgstr ""
+
+#: elements/events/events.php:75
+msgid "Event status"
+msgstr ""
+
+#: elements/events/tpl/event-1.php:92
+msgid "events"
+msgstr ""
+
+#: elements/pricing/pricing.php:87
+msgid "Example: $100"
+msgstr ""
+
+#: elements/pricing/pricing.php:79
+msgid "Example: Basic"
+msgstr ""
+
+#: elements/pricing/pricing.php:95
+msgid "Example: Month"
+msgstr ""
+
+#: elements/events/events-el.php:65 elements/events/events.php:82
+msgid "Expired"
+msgstr ""
+
+#: elements/features-list/features-list-el.php:115
+#: elements/features-list/features-list-el.php:117
+#: elements/events/events-el.php:140 elements/events/events-el.php:142
+#: elements/gallery/gallery-el.php:95 elements/gallery/gallery-el.php:97
+#: elements/login-form/login-form-el.php:168
+#: elements/login-form/login-form-el.php:170
+#: elements/social-links/social-links-el.php:87
+#: elements/social-links/social-links-el.php:89
+#: elements/new-iconbox/new-iconbox-el.php:173
+#: elements/new-iconbox/new-iconbox-el.php:175
+#: elements/portfolio/portfolio-el.php:107
+#: elements/portfolio/portfolio-el.php:109
+#: elements/testimonials/testimonials-el.php:372
+#: elements/testimonials/testimonials-el.php:374
+#: elements/icon-box/icon-box-el.php:209 elements/icon-box/icon-box-el.php:211
+#: elements/enroll-course/enroll-course-el.php:62
+#: elements/enroll-course/enroll-course-el.php:64
+#: elements/new-image-box/new-image-box-el.php:112
+#: elements/new-image-box/new-image-box-el.php:114
+#: elements/count-down/count-down-el.php:88
+#: elements/count-down/count-down-el.php:90
+#: elements/google-map/google-map-el.php:161
+#: elements/google-map/google-map-el.php:163 elements/steps/steps-el.php:259
+#: elements/steps/steps-el.php:261 elements/video-box/video-box-el.php:133
+#: elements/video-box/video-box-el.php:135
+#: elements/photo-wall/photo-wall-el.php:142
+#: elements/photo-wall/photo-wall-el.php:144
+#: elements/review-course/review-course-el.php:72
+#: elements/review-course/review-course-el.php:74
+#: elements/user-info/user-info-el.php:53
+#: elements/user-info/user-info-el.php:55
+#: elements/gallery-carousel/gallery-carousel-el.php:103
+#: elements/gallery-carousel/gallery-carousel-el.php:105
+#: elements/scroll-heading/scroll-heading-el.php:99
+#: elements/scroll-heading/scroll-heading-el.php:101
+#: elements/brands/brands-el.php:118 elements/brands/brands-el.php:120
+#: elements/courses-carousel/courses-carousel-el.php:143
+#: elements/courses-carousel/courses-carousel-el.php:145
+#: elements/new-post/new-post-el.php:156 elements/new-post/new-post-el.php:158
+#: elements/button/button-el.php:135 elements/button/button-el.php:137
+#: elements/pricing/pricing-el.php:132 elements/pricing/pricing-el.php:134
+#: elements/instructors/instructors-el.php:115
+#: elements/instructors/instructors-el.php:117
+#: elements/new-instructor/new-instructor-el.php:67
+#: elements/new-instructor/new-instructor-el.php:69
+#: elements/new-video/new-video-el.php:90
+#: elements/new-video/new-video-el.php:92
+#: elements/image-box/image-box-el.php:127
+#: elements/image-box/image-box-el.php:129 elements/posts/posts-el.php:83
+#: elements/posts/posts-el.php:85 elements/post-block-1/post-block-1-el.php:93
+#: elements/post-block-1/post-block-1-el.php:95
+#: elements/course-search/course-search-el.php:70
+#: elements/course-search/course-search-el.php:72
+#: elements/text-box/text-box-el.php:133 elements/text-box/text-box-el.php:135
+#: elements/heading/heading-el.php:141 elements/heading/heading-el.php:143
+#: elements/counter-box/counter-box-el.php:245
+#: elements/counter-box/counter-box-el.php:247
+#: elements/skills-bar/skills-bar-el.php:119
+#: elements/skills-bar/skills-bar-el.php:121
+#: elements/introduction-box/introduction-box-el.php:134
+#: elements/introduction-box/introduction-box-el.php:136
+msgid "Extra Class"
+msgstr ""
+
+#: elements/gallery/gallery.php:118 elements/login-form/login-form.php:182
+#: elements/portfolio/portfolio.php:128 elements/count-down/count-down.php:99
+#: elements/google-map/google-map.php:179
+#: elements/gallery-carousel/gallery-carousel.php:106
+#: elements/brands/brands.php:127 elements/button/button.php:137
+#: elements/pricing/pricing.php:138 elements/instructors/instructors.php:135
+#: elements/new-instructor/new-instructor.php:82
+#: elements/text-box/text-box.php:110
+#: elements/register-form/register-form.php:94 elements/heading/heading.php:137
+#: elements/introduction-box/introduction-box.php:110
+msgid "Extra class"
+msgstr ""
+
+#: elements/features-list/features-list.php:102 elements/events/events.php:135
+#: elements/social-links/social-links.php:86
+#: elements/new-iconbox/new-iconbox.php:167
+#: elements/testimonials/testimonials.php:148
+#: elements/icon-box/icon-box.php:193
+#: elements/enroll-course/enroll-course.php:74
+#: elements/new-image-box/new-image-box.php:109 elements/steps/steps.php:242
+#: elements/video-box/video-box.php:137 elements/photo-wall/photo-wall.php:132
+#: elements/review-course/review-course.php:81
+#: elements/user-info/user-info.php:64
+#: elements/scroll-heading/scroll-heading.php:109
+#: elements/courses-carousel/courses-carousel.php:155
+#: elements/new-post/new-post.php:159 elements/new-video/new-video.php:99
+#: elements/image-box/image-box.php:124 elements/posts/posts.php:95
+#: elements/post-block-1/post-block-1.php:102
+#: elements/course-search/course-search.php:86
+#: elements/counter-box/counter-box.php:448
+#: elements/skills-bar/skills-bar.php:127
+msgid "Extra class name"
+msgstr ""
+
+#: inc/functions.php:1080
+msgid "Facebook"
+msgstr ""
+
+#: elements/features-list/features-list.php:87
+#: elements/features-list/features-list-el.php:79
+#: elements/features-list/features-list-el.php:81
+msgid "Feature description"
+msgstr ""
+
+#: elements/features-list/features-list.php:93
+#: elements/features-list/features-list-el.php:89
+msgid "Feature Link"
+msgstr ""
+
+#: elements/features-list/features-list-el.php:104
+msgid "Feature List"
+msgstr ""
+
+#: elements/features-list/features-list.php:81
+#: elements/features-list/features-list-el.php:69
+#: elements/features-list/features-list-el.php:71
+msgid "Feature title"
+msgstr ""
+
+#: elements/features-list/features-list-el.php:37
+msgid "Featured Settings"
+msgstr ""
+
+#: elements/pricing/pricing.php:117 elements/pricing/pricing-el.php:98
+#: elements/pricing/pricing-el.php:100
+msgid "Features"
+msgstr ""
+
+#: elements/features-list/features-list.php:56
+#: elements/features-list/features-list-el.php:44
+#: elements/features-list/features-list-el.php:46
+msgid "Features list title"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:126
+msgid "Finish course"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:68
+msgid "First Name"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:68 elements/icon-box/icon-box.php:70
+#: elements/steps/steps.php:184 elements/steps/steps-el.php:197
+#: elements/counter-box/counter-box.php:140
+#: elements/counter-box/counter-box.php:148
+#: elements/counter-box/counter-box-el.php:130
+msgid "Font Awesome"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:47
+#: elements/new-iconbox/new-iconbox.php:60 elements/icon-box/icon-box.php:61
+#: elements/icon-box/icon-box-el.php:47 elements/steps/steps.php:175
+msgid "Font Awesome icon"
+msgstr ""
+
+#: elements/heading/heading.php:239 elements/heading/heading-el.php:242
+msgid "Font Color"
+msgstr ""
+
+#: elements/heading/heading-el.php:185
+msgid "Font size"
+msgstr ""
+
+#: elements/heading/heading.php:175
+msgid "Font size "
+msgstr ""
+
+#: elements/heading/heading.php:219
+msgid "Font style "
+msgstr ""
+
+#: elements/heading/heading-el.php:198 elements/heading/heading-el.php:223
+msgid "Font Weight"
+msgstr ""
+
+#: elements/heading/heading.php:192
+msgid "Font Weight "
+msgstr ""
+
+#: inc/functions.php:209
+msgid "font_ionicons"
+msgstr ""
+
+#: elements/courses-carousel/tpl/lp3/style-1.php:153
+#: elements/courses-carousel/tpl/lp3/default.php:161
+msgid "Free"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel.php:69
+msgid "Gallery"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel-el.php:43
+msgid "Gallery Carousel Settings"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel-el.php:83
+msgid "Gallery List"
+msgstr ""
+
+#: inc/functions.php:1082
+msgid "Google"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:57
+#: elements/google-map/google-map.php:81
+msgid "Google Map API Key"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:40
+msgid "Google Map Settings"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:69 elements/portfolio/portfolio.php:87
+msgid "Gutter"
+msgstr ""
+
+#: elements/heading/heading-el.php:163
+msgid "H2"
+msgstr ""
+
+#: elements/heading/heading-el.php:164
+msgid "H3"
+msgstr ""
+
+#: elements/heading/heading-el.php:165
+msgid "H4"
+msgstr ""
+
+#: elements/heading/heading-el.php:166
+msgid "H5"
+msgstr ""
+
+#: elements/heading/heading-el.php:167
+msgid "H6"
+msgstr ""
+
+#: elements/events/events-el.php:64 elements/events/events.php:81
+msgid "Happening"
+msgstr ""
+
+#: elements/heading/heading-el.php:153
+msgid "Heading Config"
+msgstr ""
+
+#: elements/heading/heading.php:157 elements/heading/heading.php:169
+#: elements/heading/heading.php:186 elements/heading/heading.php:213
+#: elements/heading/heading.php:234 elements/heading/heading.php:247
+#: elements/heading/heading-el.php:37
+msgid "Heading Settings"
+msgstr ""
+
+#: elements/heading/heading.php:93 elements/heading/heading-el.php:91
+#: elements/heading/heading-el.php:93
+msgid "Heading subtitle"
+msgstr ""
+
+#: elements/heading/heading-el.php:160
+msgid "Heading Tag"
+msgstr ""
+
+#: elements/heading/heading.php:146
+msgid "Heading tag"
+msgstr ""
+
+#: elements/heading/heading.php:71 elements/heading/heading-el.php:68
+#: elements/heading/heading-el.php:70
+msgid "Heading title"
+msgstr ""
+
+#: elements/heading/heading-el.php:80
+msgid "Heading title 2"
+msgstr ""
+
+#: elements/heading/heading.php:80 elements/heading/heading-el.php:78
+msgid "Heading title line 2"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:67
+#: elements/google-map/google-map.php:90
+msgid "Height"
+msgstr ""
+
+#: elements/google-map/google-map.php:95
+msgid "Height for viewing the location."
+msgstr ""
+
+#: elements/button/button-el.php:102 elements/button/button.php:105
+msgid "Hide"
+msgstr ""
+
+#: elements/courses-block-3/courses-block-3-el.php:74
+#: elements/courses-block-3/courses-block-3.php:92
+msgid "Hide categories filter?"
+msgstr ""
+
+#: elements/enroll-course/enroll-course.php:64
+#: elements/enroll-course/enroll-course-el.php:53
+msgid "Hide Course Excerpt"
+msgstr ""
+
+#: elements/gallery/gallery.php:105
+msgid "Hide Filter"
+msgstr ""
+
+#: elements/gallery/gallery-el.php:86
+msgid "Hide Filter?"
+msgstr ""
+
+#: elements/events/tpl/event-3.php:142 elements/events/tpl/event-2.php:118
+#: elements/posts/tpl/default.php:45
+msgid "Host"
+msgstr ""
+
+#: elements/count-down/tpl/default.php:12
+#: elements/count-down/tpl/default.php:30
+msgid "Hour(s)"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: elements/features-list/features-list-el.php:91
+#: elements/courses-block-2/courses-block-2-el.php:79
+#: elements/new-iconbox/new-iconbox-el.php:160
+#: elements/icon-box/icon-box-el.php:196 elements/button/button-el.php:56
+#: elements/instructors/instructors-el.php:99
+#: elements/text-box/text-box-el.php:120
+#: elements/introduction-box/introduction-box-el.php:89
+msgid "https://your-link.com"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:128
+#, php-format
+msgid ""
+"I accept the <a href=\"%s\" target=\"%s\" rel=\"%s\">Terms of Service</a>"
+msgstr ""
+
+#: elements/new-iconbox/tpl/layout-1.php:35
+#: elements/new-iconbox/tpl/layout-2.php:32
+#: elements/icon-box/tpl/default.php:38 elements/steps/tpl/layout-1.php:24
+#: elements/steps/tpl/layout-3.php:22 elements/steps/tpl/layout-4.php:22
+msgid "Icon"
+msgstr ""
+
+#: elements/icon-box/icon-box.php:143 elements/icon-box/icon-box-el.php:150
+msgid "Icon Background"
+msgstr ""
+
+#: elements/icon-box/icon-box-el.php:37
+msgid "Icon Box Settings"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:98
+#: elements/new-iconbox/new-iconbox.php:108 elements/icon-box/icon-box.php:155
+#: elements/icon-box/icon-box-el.php:162
+msgid "Icon Color"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:193
+#: elements/counter-box/counter-box-el.php:190
+msgid "Icon color"
+msgstr ""
+
+#: elements/icon-box/icon-box.php:176 elements/icon-box/icon-box-el.php:184
+msgid "Icon description"
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:87
+msgid "Icon Image"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:77
+msgid "Icon image"
+msgstr ""
+
+#: elements/new-image-box/tpl/default.php:43
+msgid "Icon Image Box"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:158
+msgid "Icon Link"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:160 elements/icon-box/icon-box.php:184
+#: elements/icon-box/icon-box-el.php:194
+msgid "Icon link"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:125
+#: elements/icon-box/icon-box.php:168 elements/icon-box/icon-box-el.php:174
+#: elements/icon-box/icon-box-el.php:176
+msgid "Icon title"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:135
+msgid "Icon title line 2"
+msgstr ""
+
+#: inc/functions.php:1008
+msgid "ID cannot be changed."
+msgstr ""
+
+#: elements/new-post/new-post-el.php:85 elements/new-post/new-post.php:95
+msgid "ID post"
+msgstr ""
+
+#: elements/new-post/new-post.php:98
+msgid "id post ex: 123 ..."
+msgstr ""
+
+#: elements/video-box/video-box-el.php:85 elements/video-box/video-box.php:94
+msgid "iMac"
+msgstr ""
+
+#: elements/steps/steps.php:121 elements/steps/steps-el.php:134
+#: elements/gallery-carousel/gallery-carousel-el.php:52
+#: elements/gallery-carousel/gallery-carousel.php:75
+msgid "Image"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:98 elements/new-post/new-post.php:107
+msgid "Image Align"
+msgstr ""
+
+#: elements/image-box/image-box-el.php:37
+msgid "Image Box Settings"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:37
+msgid "Image Box Simple Settings"
+msgstr ""
+
+#: elements/image-box/image-box.php:95 elements/image-box/image-box-el.php:93
+#: elements/image-box/image-box-el.php:95
+msgid "Image content"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:84
+#: elements/photo-wall/photo-wall-el.php:69
+#: elements/photo-wall/photo-wall-el.php:71
+#: elements/introduction-box/introduction-box.php:82
+#: elements/introduction-box/introduction-box-el.php:67
+#: elements/introduction-box/introduction-box-el.php:69
+msgid "Image Description"
+msgstr ""
+
+#: elements/image-box/image-box.php:110 elements/image-box/image-box-el.php:114
+msgid "Image float"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:101 elements/new-post/new-post.php:110
+msgid "Image Left"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:89
+#: elements/photo-wall/photo-wall-el.php:79
+#: elements/photo-wall/photo-wall-el.php:81
+msgid "Image Link"
+msgstr ""
+
+#: elements/image-box/image-box.php:64 elements/image-box/image-box-el.php:55
+msgid "Image number"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:102 elements/new-post/new-post.php:111
+msgid "Image Right"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel-el.php:73
+#: elements/gallery-carousel/gallery-carousel-el.php:75
+#: elements/gallery-carousel/gallery-carousel.php:86
+#: elements/image-box/image-box.php:87 elements/image-box/image-box-el.php:83
+#: elements/image-box/image-box-el.php:85
+msgid "Image subtitle"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:79
+#: elements/photo-wall/photo-wall-el.php:59
+#: elements/photo-wall/photo-wall-el.php:61
+#: elements/introduction-box/introduction-box.php:77
+#: elements/introduction-box/introduction-box-el.php:57
+#: elements/introduction-box/introduction-box-el.php:59
+msgid "Image Title"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel-el.php:63
+#: elements/gallery-carousel/gallery-carousel-el.php:65
+#: elements/gallery-carousel/gallery-carousel.php:81
+#: elements/image-box/image-box.php:80 elements/image-box/image-box-el.php:73
+#: elements/image-box/image-box-el.php:75
+msgid "Image title"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:67
+msgid "Images"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:101
+#: elements/new-image-box/new-image-box.php:58
+msgid "Images Box"
+msgstr ""
+
+#: elements/photo-wall/photo-wall-el.php:89
+msgid "Images List"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:98 elements/portfolio/portfolio.php:119
+msgid "Infinite Scroll"
+msgstr ""
+
+#: elements/heading/heading.php:226 elements/heading/heading-el.php:230
+msgid "Inherit"
+msgstr ""
+
+#: elements/heading/heading.php:225 elements/heading/heading-el.php:229
+msgid "Initial"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:48
+msgid "Instructor"
+msgstr ""
+
+#: elements/new-instructor/new-instructor-el.php:37
+msgid "Instructor Simple Settings"
+msgstr ""
+
+#: elements/instructors/instructors.php:120
+#: elements/instructors/instructors-el.php:69
+msgid "Instructor Style"
+msgstr ""
+
+#: elements/instructors/instructors-el.php:39
+msgid "Instructors Settings"
+msgstr ""
+
+#: elements/introduction-box/introduction-box-el.php:37
+msgid "Introduction Box Settings"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:28
+msgid "Invalid username or password. Please try again!"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:48
+#: elements/new-iconbox/new-iconbox.php:61
+#: elements/new-iconbox/new-iconbox.php:83 elements/icon-box/icon-box.php:62
+#: elements/icon-box/icon-box.php:86 elements/icon-box/icon-box-el.php:48
+#: elements/steps/steps.php:176 elements/steps/steps.php:200
+#: elements/steps/steps-el.php:198 elements/counter-box/counter-box.php:141
+#: elements/counter-box/counter-box.php:162
+#: elements/counter-box/counter-box-el.php:131
+msgid "Ionicons"
+msgstr ""
+
+#: elements/heading/heading.php:223 elements/heading/heading-el.php:227
+msgid "Italic"
+msgstr ""
+
+#: elements/button/button-el.php:90 elements/button/button.php:93
+msgid "Kit gradient"
+msgstr ""
+
+#: elements/button/button-el.php:72 elements/button/button.php:76
+msgid "Large"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:75
+msgid "Last Name"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1-el.php:54
+#: elements/courses-block-1/courses-block-1.php:73
+#: elements/courses-block-2/courses-block-2-el.php:104
+#: elements/courses-block-3/courses-block-3-el.php:99
+#: elements/courses-block-3/courses-block-3.php:119
+#: elements/courses-megamenu/courses-megamenu-el.php:65
+#: elements/courses-megamenu/courses-megamenu.php:79
+#: elements/courses-carousel/courses-carousel-el.php:56
+#: elements/courses-carousel/courses-carousel.php:76
+#: elements/post-block-1/post-block-1.php:62
+#: elements/post-block-1/post-block-1-el.php:49
+#: elements/courses-block-4/courses-block-4-el.php:86
+#: elements/courses-block-4/courses-block-4.php:105
+msgid "Latest"
+msgstr ""
+
+#: elements/events/events-el.php:112 elements/events/events.php:123
+#: elements/new-iconbox/new-iconbox-el.php:110
+#: elements/new-iconbox/new-iconbox.php:119
+#: elements/testimonials/testimonials.php:66
+#: elements/testimonials/testimonials-el.php:52
+#: elements/icon-box/icon-box.php:114 elements/icon-box/icon-box-el.php:98
+#: elements/steps/steps.php:64 elements/steps/steps-el.php:54
+#: elements/video-box/video-box-el.php:46 elements/video-box/video-box.php:69
+#: elements/new-post/new-post-el.php:45 elements/new-post/new-post.php:56
+#: elements/posts/posts-el.php:67 elements/posts/posts.php:84
+#: elements/heading/heading-el.php:44
+#: elements/courses-collection/courses-collection-el.php:51
+msgid "Layout"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:113
+#: elements/new-iconbox/new-iconbox.php:122
+#: elements/new-post/new-post-el.php:48 elements/new-post/new-post.php:59
+msgid "Layout 1"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:114
+#: elements/new-iconbox/new-iconbox.php:123
+#: elements/new-post/new-post-el.php:49 elements/new-post/new-post.php:60
+msgid "Layout 2"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:50 elements/new-post/new-post.php:61
+msgid "Layout Kit Builder"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:71
+msgid "Layout:"
+msgstr ""
+
+#: elements/login-form/login-form.php:147
+#: elements/register-form/register-form.php:66
+msgid "Leave empty to disable this field."
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:91
+#: elements/new-image-box/new-image-box.php:99
+#: elements/button/button-el.php:124 elements/button/button.php:126
+#: elements/image-box/image-box.php:114 elements/image-box/image-box-el.php:117
+#: elements/heading/heading.php:116 elements/heading/heading-el.php:120
+msgid "Left"
+msgstr ""
+
+#: elements/instructors/instructors.php:82
+#: elements/instructors/instructors-el.php:60
+#: elements/new-instructor/new-instructor.php:71
+#: elements/new-instructor/new-instructor-el.php:58
+msgid "Limit"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:96 elements/portfolio/portfolio.php:117
+msgid "Limit Items"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:125
+msgid "Link for Load more on mobile"
+msgstr ""
+
+#: elements/photo-wall/photo-wall-el.php:134
+msgid "Link for Load more on on mobile"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:67
+#: elements/new-image-box/new-image-box-el.php:69
+#: elements/new-image-box/new-image-box.php:79
+msgid "Link in title"
+msgstr ""
+
+#: elements/instructors/instructors.php:109
+#: elements/instructors/instructors-el.php:97
+msgid "Link Load More"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:49
+#: elements/login-form/login-form.php:61
+msgid "Link to account page (OFF POPUP)"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:48
+#: elements/login-form/login-form.php:60
+msgid "Link to form popup"
+msgstr ""
+
+#: elements/introduction-box/introduction-box.php:65
+#: elements/introduction-box/introduction-box-el.php:102
+msgid "List Items"
+msgstr ""
+
+#: elements/social-links/social-links-el.php:44
+#: elements/social-links/social-links-el.php:46
+#: elements/social-links/social-links.php:56
+msgid "List Title"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:17
+msgid "Logged"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:73
+#: elements/login-form/login-form.php:201 elements/login-form/tpl/form.php:298
+#: elements/login-form/tpl/form.php:357 elements/login-form/tpl/link-form.php:5
+msgid "Login"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:47
+#: elements/login-form/login-form.php:59
+msgid "Login Form (Account page)"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:37
+msgid "Login Form Settings"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:153
+msgid "Login now"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:122
+msgid "Login Popup"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:71
+#: elements/login-form/login-form.php:76
+msgid "Login Text"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:299
+msgid "Login with your site account"
+msgstr ""
+
+#: elements/brands/tpl/default.php:24
+msgid "Logo"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:86
+#: elements/login-form/login-form.php:202
+#: elements/login-form/tpl/link-form.php:6
+msgid "Logout"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:84
+#: elements/login-form/login-form.php:86
+msgid "Logout Text"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:352
+msgid "Lost Password"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:176
+msgid "Lost password"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:177 elements/login-form/tpl/form.php:352
+msgid "Lost your password?"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:192
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: elements/video-box/video-box-el.php:84 elements/video-box/video-box.php:93
+msgid "Macbook"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:47
+#: elements/google-map/google-map.php:70
+msgid "Map center location"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:148
+#: elements/google-map/google-map.php:167
+msgid "Map Style"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:82 elements/portfolio/portfolio.php:104
+msgid "Masonry"
+msgstr ""
+
+#: elements/button/button-el.php:73 elements/button/button.php:77
+msgid "Medium"
+msgstr ""
+
+#: elements/count-down/tpl/default.php:16
+#: elements/count-down/tpl/default.php:34
+msgid "Minute(s)"
+msgstr ""
+
+#: elements/brands/brands.php:106 elements/brands/brands-el.php:100
+msgid "Mobile Items"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:109
+#: elements/photo-wall/photo-wall-el.php:113
+msgid "Mobile Limit"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:124
+#: elements/photo-wall/photo-wall-el.php:132
+msgid "Mobile Link Load more"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:117
+#: elements/photo-wall/photo-wall-el.php:122
+msgid "Mobile Text Load more"
+msgstr ""
+
+#: elements/introduction-box/introduction-box.php:87
+#: elements/introduction-box/introduction-box-el.php:87
+msgid "More Detail Link"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:81 elements/portfolio/portfolio.php:103
+msgid "Multigrid"
+msgstr ""
+
+#: elements/courses-block-3/tpl/default.php:174
+#: elements/courses-block-3/tpl/lp3/default.php:201
+msgid "New"
+msgstr ""
+
+#: elements/courses-block-1/tpl/default.php:123
+#: elements/courses-block-2/tpl/default.php:114
+#: elements/courses-block-1/tpl/lp3/default.php:147
+#: elements/courses-block-2/tpl/lp3/default.php:133
+msgid "new"
+msgstr ""
+
+#: elements/events/tpl/event-4.php:109
+msgid "New events"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:241
+msgid "New password *"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:102
+#: elements/photo-wall/photo-wall-el.php:104
+msgid "No"
+msgstr ""
+
+#: elements/courses-carousel/tpl/default.php:147
+#: elements/courses-carousel/tpl/lp3/default.php:190
+msgid "No Comment"
+msgstr ""
+
+#: inc/functions.php:1064
+msgid "No course found"
+msgstr ""
+
+#: elements/heading/heading.php:195 elements/heading/heading.php:222
+#: elements/heading/heading-el.php:201 elements/heading/heading-el.php:226
+msgid "Normal"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:366
+msgid "Not a member yet? "
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading-el.php:60
+msgid "Not use space"
+msgstr ""
+
+#: elements/gallery/gallery.php:96 elements/gallery/gallery-el.php:77
+msgid "Number"
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:92
+#: elements/skills-bar/skills-bar-el.php:71
+msgid "Number and Subtitle color"
+msgstr ""
+
+#: elements/image-box/image-box.php:72 elements/image-box/image-box-el.php:64
+msgid "Number Color"
+msgstr ""
+
+#: elements/gallery/gallery.php:81 elements/gallery/gallery-el.php:62
+#: elements/courses-block-3/courses-block-3-el.php:83
+#: elements/courses-megamenu/courses-megamenu-el.php:47
+#: elements/courses-carousel/courses-carousel-el.php:121
+#: elements/courses-carousel/courses-carousel.php:135
+#: elements/post-block-1/post-block-1.php:79
+#: elements/post-block-1/post-block-1-el.php:70
+#: elements/courses-block-4/courses-block-4-el.php:70
+#: elements/courses-collection/courses-collection-el.php:140
+msgid "Number of columns"
+msgstr ""
+
+#: elements/courses-block-3/courses-block-3.php:103
+#: elements/courses-megamenu/courses-megamenu.php:61
+#: elements/courses-block-4/courses-block-4.php:89
+#: elements/courses-collection/courses-collection.php:150
+msgid "Number of columns:"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:91
+#: elements/courses-block-3/courses-block-3.php:148
+#: elements/courses-carousel/courses-carousel.php:147
+#: elements/courses-block-4/courses-block-4.php:134
+#: elements/courses-collection/courses-collection.php:132
+msgid "Number of courses to display in this block"
+msgstr ""
+
+#: elements/events/events-el.php:74 elements/events/events.php:89
+msgid "Number of events"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:111
+msgid "Number of images show on mobile"
+msgstr ""
+
+#: elements/new-post/new-post.php:81 elements/posts/posts-el.php:58
+#: elements/posts/posts.php:75 elements/post-block-1/post-block-1.php:93
+#: elements/post-block-1/post-block-1-el.php:85
+msgid "Number of posts"
+msgstr ""
+
+#: elements/review-course/review-course.php:64
+#: elements/review-course/review-course-el.php:53
+msgid "Number of reviews"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2-el.php:92
+#: elements/courses-block-3/courses-block-3-el.php:133
+#: elements/courses-carousel/courses-carousel-el.php:134
+#: elements/courses-block-4/courses-block-4-el.php:120
+#: elements/courses-collection/courses-collection-el.php:128
+msgid "Number of visible courses"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:90
+#: elements/courses-block-3/courses-block-3.php:147
+#: elements/courses-carousel/courses-carousel.php:146
+#: elements/courses-block-4/courses-block-4.php:133
+#: elements/courses-collection/courses-collection.php:131
+msgid "Number of visible courses:"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:73
+msgid "Number Post"
+msgstr ""
+
+#: elements/heading/heading.php:224 elements/heading/heading-el.php:228
+msgid "Oblique"
+msgstr ""
+
+#: elements/button/button-el.php:112 elements/button/button.php:113
+msgid "Open button link in new tab?"
+msgstr ""
+
+#: elements/events/events-el.php:99 elements/events/events.php:112
+msgid "Order"
+msgstr ""
+
+#: elements/events/events-el.php:83 elements/events/events.php:98
+msgid "Order by"
+msgstr ""
+
+#: elements/courses-block-3/courses-block-3.php:77
+#: elements/courses-block-4/courses-block-4.php:74
+msgid "Our Top Courses"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:238
+#: elements/courses-collection/courses-collection.php:241
+#, php-format
+msgid "Over %d courses"
+msgstr ""
+
+#: elements/pricing/pricing.php:77 elements/pricing/pricing-el.php:48
+#: elements/pricing/pricing-el.php:50
+msgid "Package"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:94
+msgid "Page"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:97 elements/portfolio/portfolio.php:118
+msgid "Paging"
+msgstr ""
+
+#: elements/google-map/google-map.php:73
+msgid "Paris"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:95
+#: elements/register-form/tpl/default.php:57
+msgid "Password"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:320
+msgid "Password *"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:291
+#, php-format
+msgid "Password changed. You can <a href=\"%s\">login</a> now."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:52
+msgid "Passwords must matched!"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:96
+#: elements/testimonials/testimonials-el.php:108
+msgid "Person Image"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:90
+#: elements/testimonials/testimonials-el.php:98
+#: elements/testimonials/testimonials-el.php:100
+msgid "Person Name"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:108
+#: elements/testimonials/testimonials-el.php:129
+#: elements/testimonials/testimonials-el.php:131
+msgid "Person Regency"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:123
+msgid "Person Social Links"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:102
+#: elements/testimonials/testimonials-el.php:119
+#: elements/testimonials/testimonials-el.php:121
+msgid "Person Website"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:87
+msgid "Phone"
+msgstr ""
+
+#: elements/photo-wall/photo-wall-el.php:39
+msgid "Photo Wall Settings"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:87
+#: elements/google-map/google-map.php:113
+msgid "Pinpoint marker"
+msgstr ""
+
+#: inc/functions.php:1083
+msgid "Pinterest"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:169
+msgid "Please enter a username or email!"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:34
+#: elements/register-form/tpl/default.php:25
+msgid "Please enter a username!"
+msgstr ""
+
+#: inc/demo-data-config.php:89 inc/demo-data-config.php:96
+msgid "Please try again later."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:37
+#: elements/register-form/tpl/default.php:28
+msgid "Please type your e-mail address!"
+msgstr ""
+
+#: elements/events/events-el.php:86 elements/events/events.php:101
+#: elements/courses-block-1/courses-block-1-el.php:55
+#: elements/courses-block-1/courses-block-1.php:74
+#: elements/courses-block-2/courses-block-2-el.php:105
+#: elements/courses-block-3/courses-block-3-el.php:100
+#: elements/courses-block-3/courses-block-3.php:120
+#: elements/courses-megamenu/courses-megamenu-el.php:66
+#: elements/courses-megamenu/courses-megamenu.php:80
+#: elements/courses-carousel/courses-carousel-el.php:57
+#: elements/courses-carousel/courses-carousel.php:77
+#: elements/post-block-1/post-block-1.php:63
+#: elements/post-block-1/post-block-1-el.php:50
+#: elements/courses-block-4/courses-block-4-el.php:87
+#: elements/courses-block-4/courses-block-4.php:106
+msgid "Popular"
+msgstr ""
+
+#: elements/course-search/course-search.php:76
+#: elements/course-search/course-search-el.php:60
+msgid "Popup"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:48
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:85
+msgid "Post"
+msgstr ""
+
+#: elements/post-block-1/post-block-1-el.php:39
+msgid "Post Block 1 Settings"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:38
+msgid "Post Simple Settings"
+msgstr ""
+
+#: elements/posts/posts-el.php:40
+msgid "Posts Gallery Settings"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:125
+#: elements/google-map/google-map.php:147
+msgid "Preload cover image"
+msgstr ""
+
+#: elements/pricing/pricing.php:84 elements/pricing/pricing-el.php:58
+#: elements/pricing/pricing-el.php:60
+msgid "Price"
+msgstr ""
+
+#: elements/pricing/pricing.php:70
+msgid "Pricing"
+msgstr ""
+
+#: elements/pricing/pricing-el.php:108
+msgid "Pricing List"
+msgstr ""
+
+#: elements/pricing/pricing-el.php:39
+msgid "Pricing Settings"
+msgstr ""
+
+#: elements/button/button-el.php:87 elements/button/button.php:90
+msgid "Primary"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:47
+msgid "Public"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:199
+#: elements/counter-box/counter-box.php:274
+#: elements/counter-box/counter-box.php:328
+#: elements/counter-box/counter-box.php:382
+#: elements/counter-box/counter-box.php:436
+#: elements/counter-box/counter-box-el.php:199
+msgid "Quantity color"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:316
+msgid "Quantity color 1"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:388
+msgid "Quantity color 2"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:460
+msgid "Quantity color 3"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:532
+msgid "Quantity color 4"
+msgstr ""
+
+#: elements/events/events-el.php:89 elements/events/events.php:104
+msgid "Random"
+msgstr ""
+
+#: elements/steps/tpl/layout-1.php:46 elements/steps/tpl/layout-3.php:61
+#: elements/steps/tpl/layout-4.php:55 elements/review-course/tpl/default.php:30
+#: elements/review-course/tpl/lp3/default.php:49
+msgid "Read More"
+msgstr ""
+
+#: elements/instructors/tpl/item4.php:65
+#: elements/instructors/tpl/lp3/item4.php:104
+msgid "Read more"
+msgstr ""
+
+#: elements/steps/steps.php:165 elements/steps/steps-el.php:184
+#: elements/steps/steps-el.php:186
+msgid "Read more URL"
+msgstr ""
+
+#: elements/events/events-el.php:87 elements/events/events.php:102
+msgid "Recent"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:60
+#: elements/login-form/login-form.php:203 elements/login-form/tpl/form.php:55
+#: elements/login-form/tpl/form.php:159 elements/login-form/tpl/link-form.php:4
+msgid "Register"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:366
+msgid "Register Now"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:58
+#: elements/login-form/login-form.php:66
+msgid "Register Text"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:56
+msgid "Register to start learning"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:281
+msgid "Registration is successful. Confirmation will be e-mailed to you."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:349
+msgid "Remember Me"
+msgstr ""
+
+#: elements/heading/heading.php:103
+msgid "Replace the default heading icon with your own icon."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:263
+msgid "Reset Password"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:188
+msgid "Reset password"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:40
+#: elements/enroll-course/tpl/default.php:97
+msgid "Retake"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:109
+#, php-format
+msgid "Retake course (+%d)"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:92
+#: elements/new-image-box/new-image-box.php:100
+#: elements/button/button-el.php:125 elements/button/button.php:127
+#: elements/image-box/image-box.php:115 elements/image-box/image-box-el.php:118
+#: elements/heading/heading.php:115 elements/heading/heading-el.php:119
+msgid "Right"
+msgstr ""
+
+#: elements/courses-block-3/tpl/default.php:177
+#: elements/courses-carousel/tpl/style-1.php:115
+#: elements/courses-carousel/tpl/default.php:109
+#: elements/courses-block-3/tpl/lp3/default.php:205
+#: elements/courses-carousel/tpl/lp3/style-1.php:132
+#: elements/courses-carousel/tpl/lp3/default.php:137
+msgid "Sale"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:83 elements/portfolio/portfolio.php:105
+msgid "Same size"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:100
+msgid "Science courses collection"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading-el.php:39
+msgid "Scroll Heading Settings"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading-el.php:89
+msgid "Scroll offset"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading.php:98
+msgid "Scroll offset "
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading-el.php:79
+msgid "Scroll speed"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading.php:89
+msgid "Scroll speed "
+msgstr ""
+
+#: elements/google-map/google-map-el.php:107
+#: elements/google-map/google-map.php:131
+msgid "Scroll to zoom"
+msgstr ""
+
+#: elements/course-search/tpl/lp3/default.php:43
+msgid "Search"
+msgstr ""
+
+#: elements/course-search/course-search.php:63
+#: elements/course-search/course-search-el.php:46
+msgid "Search box placeholder"
+msgstr ""
+
+#: elements/count-down/tpl/default.php:20
+#: elements/count-down/tpl/default.php:38
+msgid "Second(s)"
+msgstr ""
+
+#: elements/button/button-el.php:88 elements/button/button.php:91
+msgid "Secondary"
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:90
+#: elements/image-box/image-box.php:105
+msgid "Select a background image for the content"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:78 elements/portfolio/portfolio.php:99
+msgid "Select a item size"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:92
+msgid "Select a paging"
+msgstr ""
+
+#: elements/portfolio/portfolio.php:112
+msgid "Select a paging:"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:100 elements/icon-box/icon-box.php:104
+#: elements/new-image-box/new-image-box.php:66 elements/steps/steps.php:137
+#: elements/steps/steps.php:218 elements/video-box/video-box.php:83
+#: elements/new-post/new-post.php:140 elements/new-video/new-video.php:70
+#: elements/new-video/new-video.php:78 elements/new-video/new-video.php:86
+#: elements/image-box/image-box.php:59
+msgid "Select an image to upload"
+msgstr ""
+
+#: elements/steps/steps.php:124
+msgid "Select an image to upload "
+msgstr ""
+
+#: elements/button/button-el.php:69 elements/button/button.php:72
+msgid "Select Button Size"
+msgstr ""
+
+#: elements/button/button-el.php:84 elements/button/button-el.php:121
+#: elements/button/button.php:86 elements/button/button.php:122
+msgid "Select Button Style"
+msgstr ""
+
+#: elements/events/events-el.php:47 elements/gallery/gallery.php:70
+#: elements/gallery/gallery-el.php:51
+#: elements/courses-block-1/courses-block-1-el.php:65
+#: elements/courses-block-1/courses-block-1.php:81
+#: elements/courses-block-2/courses-block-2-el.php:115
+#: elements/courses-block-3/courses-block-3-el.php:110
+#: elements/courses-block-3/courses-block-3.php:127
+#: elements/courses-megamenu/courses-megamenu-el.php:76
+#: elements/courses-megamenu/courses-megamenu.php:87
+#: elements/courses-carousel/courses-carousel-el.php:67
+#: elements/courses-carousel/courses-carousel.php:84
+#: elements/new-post/new-post-el.php:59 elements/posts/posts-el.php:47
+#: elements/post-block-1/post-block-1.php:69
+#: elements/post-block-1/post-block-1-el.php:59
+#: elements/courses-block-4/courses-block-4-el.php:97
+#: elements/courses-block-4/courses-block-4.php:113
+msgid "Select Category"
+msgstr ""
+
+#: elements/pricing/pricing.php:126 elements/pricing/pricing-el.php:119
+msgid "Select columns"
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:102
+msgid "Select content right and left background"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:100
+msgid "Select Course Category"
+msgstr ""
+
+#: elements/events/events.php:66
+msgid "Select event category"
+msgstr ""
+
+#: elements/heading/heading-el.php:115
+msgid "Select Heading Align"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:58
+#: elements/new-iconbox/new-iconbox-el.php:70
+#: elements/icon-box/icon-box-el.php:58 elements/icon-box/icon-box-el.php:70
+#: elements/steps/steps-el.php:208 elements/steps/steps-el.php:220
+#: elements/counter-box/counter-box-el.php:141
+#: elements/counter-box/counter-box-el.php:153
+msgid "Select Icon:"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:74
+#: elements/photo-wall/photo-wall-el.php:48
+#: elements/introduction-box/introduction-box.php:72
+#: elements/introduction-box/introduction-box-el.php:46
+msgid "Select Image"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel.php:76
+msgid "Select image has size at least 1600x800"
+msgstr ""
+
+#: elements/image-box/image-box.php:117
+msgid "Select image to float left or right to the content"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:179
+#: elements/counter-box/counter-box.php:223
+msgid "Select images from media library."
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:104
+msgid "Select no to show images in full size"
+msgstr ""
+
+#: elements/new-post/new-post.php:67 elements/posts/posts.php:65
+msgid "Select post category"
+msgstr ""
+
+#: elements/heading/heading.php:240
+msgid "Select primary color for heading"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:109 elements/icon-box/icon-box.php:144
+#: elements/icon-box/icon-box.php:156
+msgid "Select primary color for the icon box"
+msgstr ""
+
+#: elements/count-down/count-down-el.php:75
+#: elements/courses-carousel/courses-carousel-el.php:90
+#: elements/text-box/text-box.php:57
+msgid "Select Style"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:44
+#: elements/new-iconbox/new-iconbox.php:56 elements/icon-box/icon-box.php:57
+#: elements/icon-box/icon-box-el.php:44 elements/steps/steps.php:171
+#: elements/steps/steps-el.php:194 elements/counter-box/counter-box.php:135
+#: elements/counter-box/counter-box-el.php:126
+msgid "Select type of icon"
+msgstr ""
+
+#: elements/icon-box/icon-box.php:128 elements/icon-box/icon-box-el.php:134
+msgid "Select type of style"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1.php:85
+#: elements/courses-block-3/courses-block-3.php:131
+#: elements/courses-megamenu/courses-megamenu.php:91
+#: elements/courses-carousel/courses-carousel.php:87
+#: elements/courses-block-4/courses-block-4.php:117
+msgid "Select which category if you choose to show courses by category."
+msgstr ""
+
+#: elements/gallery/gallery.php:72 elements/post-block-1/post-block-1.php:71
+msgid "Select which category if you choose to show posts by category."
+msgstr ""
+
+#: inc/functions.php:1076
+msgid "Share"
+msgstr ""
+
+#: elements/button/button-el.php:103 elements/button/button.php:106
+msgid "Show"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:95 elements/portfolio/portfolio.php:116
+msgid "Show All"
+msgstr ""
+
+#: elements/courses-carousel/courses-carousel-el.php:103
+#: elements/courses-carousel/courses-carousel.php:119
+msgid "Show arrow navigation"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:156
+#: elements/courses-collection/courses-collection.php:165
+msgid "Show arrow navigation?"
+msgstr ""
+
+#: elements/review-course/review-course.php:71
+msgid "Show button Read More"
+msgstr ""
+
+#: elements/review-course/review-course-el.php:63
+msgid "Show button Read More?"
+msgstr ""
+
+#: elements/video-box/video-box.php:123
+msgid "Show button to share video"
+msgstr ""
+
+#: elements/video-box/video-box-el.php:121
+msgid "Show button to share video?"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:134
+msgid "Show Captcha"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1-el.php:51
+#: elements/courses-block-1/courses-block-1.php:69
+#: elements/courses-block-2/courses-block-2-el.php:101
+#: elements/courses-block-3/courses-block-3-el.php:96
+#: elements/courses-megamenu/courses-megamenu-el.php:62
+#: elements/courses-megamenu/courses-megamenu.php:75
+#: elements/courses-carousel/courses-carousel-el.php:53
+#: elements/courses-block-4/courses-block-4-el.php:83
+msgid "Show courses by"
+msgstr ""
+
+#: elements/courses-block-3/courses-block-3.php:115
+#: elements/courses-carousel/courses-carousel.php:72
+#: elements/courses-block-4/courses-block-4.php:101
+msgid "Show courses by:"
+msgstr ""
+
+#: elements/courses-carousel/courses-carousel-el.php:112
+#: elements/courses-carousel/courses-carousel.php:127
+msgid "Show dots navigation"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel-el.php:94
+#: elements/gallery-carousel/gallery-carousel.php:94
+#: elements/brands/brands.php:115 elements/brands/brands-el.php:109
+msgid "Show dots navigation?"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:185
+msgid "Show Dribbble"
+msgstr ""
+
+#: elements/events/events-el.php:58
+msgid "Show event by"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:150
+msgid "Show Facebook"
+msgstr ""
+
+#: elements/courses-carousel/courses-carousel.php:98
+msgid "Show Featured Courses"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1-el.php:79
+#: elements/courses-block-1/courses-block-1.php:90
+#: elements/courses-block-2/courses-block-2.php:108
+#: elements/courses-block-2/courses-block-2-el.php:129
+#: elements/courses-block-3/courses-block-3-el.php:124
+#: elements/courses-block-3/courses-block-3.php:136
+#: elements/courses-megamenu/courses-megamenu-el.php:90
+#: elements/courses-megamenu/courses-megamenu.php:96
+#: elements/courses-carousel/courses-carousel-el.php:81
+#: elements/courses-block-4/courses-block-4-el.php:111
+#: elements/courses-block-4/courses-block-4.php:122
+msgid "Show Featured Courses?"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:325
+msgid "Show Google"
+msgstr ""
+
+#: elements/heading/heading.php:123
+msgid "Show heading separator"
+msgstr ""
+
+#: elements/heading/heading-el.php:129
+msgid "Show heading separator?"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:220
+msgid "Show Instagram"
+msgstr ""
+
+#: elements/google-map/google-map.php:115
+msgid "Show pinpoint marker at the map center location."
+msgstr ""
+
+#: elements/post-block-1/post-block-1-el.php:46
+msgid "Show posts by"
+msgstr ""
+
+#: elements/post-block-1/post-block-1.php:58
+msgid "Show posts by:"
+msgstr ""
+
+#: elements/google-map/google-map.php:149
+msgid ""
+"Show preload cover image before loading the map. Enable this to speed up "
+"loading time."
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:168
+#: elements/courses-collection/courses-collection.php:183
+msgid "Show Scrollbar?"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:92
+#: elements/counter-box/counter-box-el.php:73
+msgid "Show symbol separator"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:255
+msgid "Show Twitter"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:290
+msgid "Show Youtube"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:150
+msgid "Sign up"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:37
+msgid "Simple IconBox Settings"
+msgstr ""
+
+#: elements/text-box/text-box-el.php:72 elements/text-box/text-box.php:69
+msgid "Size of Style"
+msgstr ""
+
+#: elements/skills-bar/skills-bar-el.php:108
+msgid "Skill List"
+msgstr ""
+
+#: elements/skills-bar/skills-bar-el.php:43
+msgid "Skills Bar Settings"
+msgstr ""
+
+#: elements/button/button-el.php:74 elements/button/button.php:78
+#: elements/text-box/text-box-el.php:76 elements/text-box/text-box.php:74
+msgid "Small"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:172
+#: elements/testimonials/testimonials-el.php:174
+#: elements/testimonials/testimonials-el.php:207
+#: elements/testimonials/testimonials-el.php:209
+#: elements/testimonials/testimonials-el.php:242
+#: elements/testimonials/testimonials-el.php:244
+#: elements/testimonials/testimonials-el.php:277
+#: elements/testimonials/testimonials-el.php:279
+#: elements/testimonials/testimonials-el.php:312
+#: elements/testimonials/testimonials-el.php:314
+#: elements/testimonials/testimonials-el.php:347
+#: elements/testimonials/testimonials-el.php:349
+msgid "Social Link"
+msgstr ""
+
+#: elements/social-links/social-links-el.php:37
+msgid "Social Links Settings"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:110
+#: elements/login-form/login-form.php:106
+msgid "Social Login Shortcode"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:159
+#: elements/testimonials/testimonials-el.php:161
+#: elements/testimonials/testimonials-el.php:194
+#: elements/testimonials/testimonials-el.php:196
+#: elements/testimonials/testimonials-el.php:229
+#: elements/testimonials/testimonials-el.php:231
+#: elements/testimonials/testimonials-el.php:264
+#: elements/testimonials/testimonials-el.php:266
+#: elements/testimonials/testimonials-el.php:299
+#: elements/testimonials/testimonials-el.php:301
+#: elements/testimonials/testimonials-el.php:334
+#: elements/testimonials/testimonials-el.php:336
+msgid "Social Name"
+msgstr ""
+
+#: elements/social-links/social-links.php:76
+msgid "Social network ink"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:135
+msgid "Social Network Link"
+msgstr ""
+
+#: elements/social-links/social-links-el.php:66
+#: elements/social-links/social-links-el.php:68
+msgid "Social network link"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:129
+msgid "Social Network Name"
+msgstr ""
+
+#: elements/social-links/social-links-el.php:56
+#: elements/social-links/social-links-el.php:58
+#: elements/social-links/social-links.php:70
+msgid "Social network name"
+msgstr ""
+
+#: elements/social-links/social-links-el.php:76
+msgid "Socials List"
+msgstr ""
+
+#: elements/events/tpl/event-1.php:131 elements/events/tpl/event-4.php:142
+#: elements/events/tpl/event-3.php:156 elements/new-post/tpl/default.php:87
+#: elements/new-post/tpl/default.php:110 elements/new-post/tpl/default.php:141
+#: elements/posts/tpl/default.php:66
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:221
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:219
+msgid "Sorry, that key has expired. Please try again."
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:176
+msgid "Sorry, you can not purchase this course"
+msgstr ""
+
+#: elements/steps/steps.php:88 elements/steps/steps-el.php:95
+#: elements/steps/steps-el.php:97
+msgid "Step circle text"
+msgstr ""
+
+#: elements/steps/steps.php:159 elements/steps/steps-el.php:174
+#: elements/steps/steps-el.php:176
+msgid "Step Description"
+msgstr ""
+
+#: elements/steps/steps.php:153 elements/steps/steps-el.php:164
+#: elements/steps/steps-el.php:166
+msgid "Step Title"
+msgstr ""
+
+#: elements/steps/steps-el.php:248
+msgid "Steps List"
+msgstr ""
+
+#: elements/steps/steps-el.php:37
+msgid "Steps Settings"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:49
+msgid "Student enrolled"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:50
+msgid "Student NOT enroll"
+msgstr ""
+
+#: elements/count-down/count-down.php:85 elements/steps/steps.php:99
+#: elements/steps/steps-el.php:105 elements/course-search/course-search.php:72
+#: elements/text-box/text-box-el.php:44 elements/heading/heading.php:57
+msgid "Style"
+msgstr ""
+
+#: elements/features-list/features-list.php:68
+#: elements/features-list/features-list-el.php:58
+#: elements/courses-carousel/courses-carousel-el.php:94
+#: elements/courses-carousel/courses-carousel.php:112
+#: elements/counter-box/counter-box.php:72
+#: elements/counter-box/counter-box-el.php:49
+msgid "Style 1"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:73
+#: elements/counter-box/counter-box-el.php:50
+msgid "Style 2"
+msgstr ""
+
+#: elements/icon-box/icon-box.php:133 elements/icon-box/icon-box-el.php:138
+#: elements/course-search/course-search.php:77
+#: elements/course-search/course-search-el.php:61
+msgid "Style Kit Builder"
+msgstr ""
+
+#: elements/pricing/pricing.php:141
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: elements/features-list/features-list.php:63
+#: elements/features-list/features-list-el.php:54
+#: elements/courses-carousel/courses-carousel.php:107
+msgid "Styles"
+msgstr ""
+
+#: elements/register-form/tpl/default.php:84
+msgid "Submit"
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:83
+#: elements/skills-bar/skills-bar-el.php:61
+#: elements/skills-bar/skills-bar-el.php:63
+msgid "Subtitle"
+msgstr ""
+
+#: elements/steps/steps.php:80 elements/new-video/new-video-el.php:82
+msgid "Support Youtube and Vimeo format"
+msgstr ""
+
+#: elements/video-box/video-box.php:109 elements/new-video/new-video.php:93
+msgid ""
+"Support Youtube and Vimeo format. Add '?rel=0&showinfo=0' to the video URL "
+"to turn off related videos"
+msgstr ""
+
+#: inc/functions.php:1098
+msgid "Supported: Vimeo, Youtube"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:205
+#: elements/counter-box/counter-box-el.php:208
+msgid "Symbol separator color"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:38
+msgid "Tab"
+msgstr ""
+
+#: elements/brands/brands.php:97 elements/brands/brands-el.php:91
+msgid "Tablet Items"
+msgstr ""
+
+#: elements/courses-carousel/tpl/style-1.php:165
+#: elements/courses-carousel/tpl/lp3/style-1.php:185
+msgid "Teacher"
+msgstr ""
+
+#: elements/instructors/tpl/item.php:100 elements/instructors/tpl/item4.php:60
+#: elements/instructors/tpl/item3.php:113
+#: elements/instructors/tpl/item2.php:112
+#: elements/new-instructor/tpl/default.php:129
+#: elements/instructors/tpl/lp3/item.php:121
+#: elements/instructors/tpl/lp3/item4.php:99
+#: elements/instructors/tpl/lp3/item3.php:129
+#: elements/instructors/tpl/lp3/item2.php:130
+msgid "Teachers"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:146
+msgid "Term link"
+msgstr ""
+
+#: elements/login-form/login-form.php:144
+#: elements/register-form/register-form.php:63
+msgid "Terms of Service link"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:114
+msgid "Testimonial content"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:83
+msgid "Testimonials"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:360
+msgid "Testimonials List"
+msgstr ""
+
+#: elements/testimonials/testimonials-el.php:45
+msgid "Testimonials Settings"
+msgstr ""
+
+#: elements/text-box/text-box-el.php:98 elements/text-box/text-box-el.php:100
+#: elements/text-box/text-box.php:96
+msgid "Text Box Content"
+msgstr ""
+
+#: elements/text-box/text-box-el.php:37
+msgid "Text Box Settings"
+msgstr ""
+
+#: elements/text-box/text-box-el.php:88 elements/text-box/text-box-el.php:90
+#: elements/text-box/text-box.php:89
+msgid "Text Box Title"
+msgstr ""
+
+#: elements/text-box/text-box-el.php:108 elements/text-box/text-box-el.php:110
+msgid "Text Button"
+msgstr ""
+
+#: elements/new-post/new-post.php:150
+msgid "Text button view more"
+msgstr ""
+
+#: elements/new-post/new-post.php:153
+msgid "Text button view more for Thim New Posts."
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:118
+#: elements/photo-wall/photo-wall-el.php:124
+msgid "Text for Load more on on mobile"
+msgstr ""
+
+#: elements/instructors/instructors.php:92
+#: elements/instructors/instructors-el.php:84
+#: elements/instructors/instructors-el.php:86
+msgid "Text Load More"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:146
+msgid "Text View More"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:148
+msgid "Text view more button"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:41
+#: elements/enroll-course/tpl/default.php:98
+msgid ""
+"The class is full so enrollment is closed. Please contact the site admin."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:46
+#: elements/register-form/tpl/default.php:37
+msgid "The email address isn't correct. Please try again!"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:200
+msgid "The key is expired. Please try again!"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:203
+msgid "The key is invalid. Please try again!"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:206
+msgid "The password is invalid. Please try again!"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:172
+msgid "The user does not exist. Please try again!"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:49
+#: elements/register-form/tpl/default.php:40
+msgid "The username is invalid. Please try again!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Thim Course Builder"
+msgstr ""
+
+#: thim-course-builder.php:200
+msgid "Thim Elements"
+msgstr ""
+
+#: elements/google-map/google-map.php:59
+msgid "Thim Google Map"
+msgstr ""
+
+#: elements/features-list/features-list.php:50 elements/events/events.php:60
+#: elements/gallery/gallery.php:63 elements/login-form/login-form.php:50
+#: elements/courses-block-1/courses-block-1.php:63
+#: elements/courses-block-2/courses-block-2.php:51
+#: elements/social-links/social-links.php:50
+#: elements/new-iconbox/new-iconbox.php:50
+#: elements/courses-block-3/courses-block-3.php:69
+#: elements/courses-megamenu/courses-megamenu.php:54
+#: elements/portfolio/portfolio.php:67
+#: elements/testimonials/testimonials.php:59 elements/icon-box/icon-box.php:50
+#: elements/enroll-course/enroll-course.php:50
+#: elements/new-image-box/new-image-box.php:50
+#: elements/count-down/count-down.php:62 elements/google-map/google-map.php:61
+#: elements/steps/steps.php:50 elements/video-box/video-box.php:63
+#: elements/photo-wall/photo-wall.php:59
+#: elements/review-course/review-course.php:49
+#: elements/user-info/user-info.php:49
+#: elements/gallery-carousel/gallery-carousel.php:62
+#: elements/scroll-heading/scroll-heading.php:60 elements/brands/brands.php:62
+#: elements/courses-carousel/courses-carousel.php:63
+#: elements/new-post/new-post.php:50 elements/button/button.php:50
+#: elements/pricing/pricing.php:62 elements/instructors/instructors.php:61
+#: elements/new-instructor/new-instructor.php:50
+#: elements/new-video/new-video.php:60 elements/image-box/image-box.php:50
+#: elements/posts/posts.php:59 elements/post-block-1/post-block-1.php:51
+#: elements/courses-block-4/courses-block-4.php:66
+#: elements/course-search/course-search.php:57
+#: elements/text-box/text-box.php:50
+#: elements/register-form/register-form.php:50 elements/heading/heading.php:50
+#: elements/courses-collection/courses-collection.php:65
+#: elements/counter-box/counter-box.php:62
+#: elements/skills-bar/skills-bar.php:63
+#: elements/introduction-box/introduction-box.php:59
+msgid "Thim Shortcodes"
+msgstr ""
+
+#: elements/steps/steps.php:58 elements/steps/steps-el.php:44
+#: elements/steps/steps-el.php:46
+msgid "Thim Steps title"
+msgstr ""
+
+#: elements/brands/brands.php:33 elements/brands/brands-el.php:17
+msgid "Thim: Brands"
+msgstr ""
+
+#: elements/button/button-el.php:17 elements/button/button.php:33
+msgid "Thim: Button"
+msgstr ""
+
+#: elements/count-down/count-down-el.php:30
+#: elements/count-down/count-down.php:33
+msgid "Thim: Countdown"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:33
+#: elements/counter-box/counter-box-el.php:17
+msgid "Thim: Counter Box"
+msgstr ""
+
+#: elements/review-course/review-course.php:32
+#: elements/review-course/review-course-el.php:17
+msgid "Thim: Course Reviews"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1-el.php:17
+#: elements/courses-block-1/courses-block-1.php:33
+msgid "Thim: Courses - Block 1"
+msgstr ""
+
+#: elements/courses-block-2/courses-block-2.php:33
+#: elements/courses-block-2/courses-block-2-el.php:17
+msgid "Thim: Courses - Block 2"
+msgstr ""
+
+#: elements/courses-block-3/courses-block-3-el.php:17
+#: elements/courses-block-3/courses-block-3.php:41
+msgid "Thim: Courses - Block 3"
+msgstr ""
+
+#: elements/courses-block-4/courses-block-4-el.php:17
+msgid "Thim: Courses - Block 4"
+msgstr ""
+
+#: elements/courses-megamenu/courses-megamenu-el.php:17
+#: elements/courses-megamenu/courses-megamenu.php:35
+msgid "Thim: Courses - MegaMenu"
+msgstr ""
+
+#: elements/courses-block-4/courses-block-4.php:41
+msgid "Thim: Courses - Type Kit Builder"
+msgstr ""
+
+#: elements/courses-carousel/courses-carousel-el.php:17
+#: elements/courses-carousel/courses-carousel.php:33
+msgid "Thim: Courses Carousel"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:17
+#: elements/courses-collection/courses-collection.php:33
+msgid "Thim: Courses Collection"
+msgstr ""
+
+#: elements/enroll-course/enroll-course.php:33
+#: elements/enroll-course/enroll-course-el.php:17
+msgid "Thim: Enroll Course"
+msgstr ""
+
+#: elements/events/events-el.php:17 elements/events/events.php:33
+msgid "Thim: Events"
+msgstr ""
+
+#: elements/features-list/features-list.php:33
+#: elements/features-list/features-list-el.php:17
+msgid "Thim: Features List"
+msgstr ""
+
+#: elements/gallery-carousel/gallery-carousel-el.php:17
+#: elements/gallery-carousel/gallery-carousel.php:33
+msgid "Thim: Gallery Carousel"
+msgstr ""
+
+#: elements/gallery/gallery.php:33 elements/gallery/gallery-el.php:17
+msgid "Thim: Gallery Posts"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:17
+#: elements/google-map/google-map.php:33
+msgid "Thim: Google Map"
+msgstr ""
+
+#: elements/heading/heading.php:33 elements/heading/heading-el.php:17
+msgid "Thim: Heading"
+msgstr ""
+
+#: elements/icon-box/icon-box.php:33 elements/icon-box/icon-box-el.php:17
+msgid "Thim: Icon Box"
+msgstr ""
+
+#: elements/image-box/image-box.php:33 elements/image-box/image-box-el.php:17
+msgid "Thim: Image Box"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:17
+msgid "Thim: Image Box Simple"
+msgstr ""
+
+#: elements/new-instructor/new-instructor-el.php:17
+msgid "Thim: Instructor Simple"
+msgstr ""
+
+#: elements/instructors/instructors.php:33
+#: elements/instructors/instructors-el.php:17
+msgid "Thim: Instructors"
+msgstr ""
+
+#: elements/introduction-box/introduction-box.php:41
+#: elements/introduction-box/introduction-box-el.php:17
+msgid "Thim: Introduction Box"
+msgstr ""
+
+#: elements/login-form/login-form.php:33
+msgid "Thim: Login"
+msgstr ""
+
+#: elements/login-form/login-form-el.php:17
+msgid "Thim: Login Form"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:33
+msgid "Thim: New Icon Box"
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:33
+msgid "Thim: New Image Box"
+msgstr ""
+
+#: elements/new-instructor/new-instructor.php:33
+msgid "Thim: New Instructors"
+msgstr ""
+
+#: elements/new-post/new-post.php:32
+msgid "Thim: New Posts"
+msgstr ""
+
+#: elements/new-video/new-video.php:33
+msgid "Thim: New Video"
+msgstr ""
+
+#: elements/photo-wall/photo-wall.php:33
+#: elements/photo-wall/photo-wall-el.php:17
+msgid "Thim: Photo Wall"
+msgstr ""
+
+#: elements/portfolio/portfolio-el.php:17 elements/portfolio/portfolio.php:33
+msgid "Thim: Portfolio"
+msgstr ""
+
+#: elements/post-block-1/post-block-1.php:33
+#: elements/post-block-1/post-block-1-el.php:17
+msgid "Thim: Post Block 1"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:17
+msgid "Thim: Post Simple"
+msgstr ""
+
+#: elements/posts/posts-el.php:17 elements/posts/posts.php:32
+msgid "Thim: Posts Gallery"
+msgstr ""
+
+#: elements/pricing/pricing.php:34 elements/pricing/pricing-el.php:17
+msgid "Thim: Pricing"
+msgstr ""
+
+#: elements/register-form/register-form.php:33
+msgid "Thim: Register Form"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading.php:33
+#: elements/scroll-heading/scroll-heading-el.php:17
+msgid "Thim: Scroll Heading"
+msgstr ""
+
+#: elements/course-search/course-search.php:33
+#: elements/course-search/course-search-el.php:17
+msgid "Thim: Search Courses"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:17
+msgid "Thim: Simple Icon Box"
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:33
+#: elements/skills-bar/skills-bar-el.php:17
+msgid "Thim: Skills Bar"
+msgstr ""
+
+#: elements/social-links/social-links-el.php:17
+#: elements/social-links/social-links.php:33
+msgid "Thim: Social Links"
+msgstr ""
+
+#: elements/steps/steps.php:33 elements/steps/steps-el.php:17
+msgid "Thim: Steps"
+msgstr ""
+
+#: elements/testimonials/testimonials.php:33
+#: elements/testimonials/testimonials-el.php:24
+msgid "Thim: Testimonials"
+msgstr ""
+
+#: elements/text-box/text-box-el.php:17 elements/text-box/text-box.php:33
+msgid "Thim: Text Box"
+msgstr ""
+
+#: elements/user-info/user-info-el.php:17 elements/user-info/user-info.php:32
+msgid "Thim: User Info"
+msgstr ""
+
+#: elements/video-box/video-box-el.php:17 elements/video-box/video-box.php:33
+msgid "Thim: Video Box"
+msgstr ""
+
+#: elements/new-video/new-video-el.php:17
+msgid "Thim: Video Simple"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:43
+#: elements/register-form/tpl/default.php:34
+msgid "This email is already registered. Please choose another one!"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:40
+#: elements/register-form/tpl/default.php:31
+msgid "This username is already registered. Please choose another one!"
+msgstr ""
+
+#: elements/events/events-el.php:90 elements/events/events.php:105
+msgid "Time"
+msgstr ""
+
+#: elements/events/events-el.php:88 elements/events/events.php:103
+#: elements/new-iconbox/new-iconbox-el.php:123
+#: elements/new-iconbox/new-iconbox.php:129
+#: elements/new-image-box/new-image-box-el.php:57
+#: elements/new-image-box/new-image-box-el.php:59
+#: elements/scroll-heading/scroll-heading-el.php:48
+#: elements/scroll-heading/scroll-heading-el.php:50
+#: elements/skills-bar/skills-bar.php:100
+#: elements/skills-bar/skills-bar-el.php:80
+#: elements/skills-bar/skills-bar-el.php:82
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:60
+msgid "Title"
+msgstr ""
+
+#: elements/skills-bar/skills-bar.php:108
+#: elements/skills-bar/skills-bar-el.php:90
+msgid "Title Color"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:187
+#: elements/counter-box/counter-box.php:264
+#: elements/counter-box/counter-box.php:318
+#: elements/counter-box/counter-box.php:372
+#: elements/counter-box/counter-box.php:426
+#: elements/counter-box/counter-box-el.php:181
+msgid "Title color"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:304
+msgid "Title color 1"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:376
+msgid "Title color 2"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:448
+msgid "Title color 3"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:520
+msgid "Title color 4"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:133
+#: elements/new-iconbox/new-iconbox.php:137
+msgid "Title line 2"
+msgstr ""
+
+#: elements/introduction-box/introduction-box-el.php:77
+#: elements/introduction-box/introduction-box-el.php:79
+msgid "Title Link"
+msgstr ""
+
+#: elements/new-image-box/new-image-box.php:71
+msgid "Title title"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading.php:66
+msgid "Titles"
+msgstr ""
+
+#: elements/scroll-heading/scroll-heading-el.php:68
+msgid "Titles List"
+msgstr ""
+
+#: inc/functions.php:1081
+msgid "Twitter"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:64
+msgid "Type"
+msgstr ""
+
+#: elements/google-map/google-map-el.php:152
+#: elements/google-map/google-map.php:171
+msgid "Ultra light with location labels"
+msgstr ""
+
+#: elements/pricing/pricing.php:92 elements/pricing/pricing-el.php:68
+#: elements/pricing/pricing-el.php:70 elements/counter-box/counter-box.php:123
+#: elements/counter-box/counter-box.php:244
+#: elements/counter-box/counter-box.php:298
+#: elements/counter-box/counter-box.php:352
+#: elements/counter-box/counter-box.php:406
+#: elements/counter-box/counter-box-el.php:106
+#: elements/counter-box/counter-box-el.php:108
+msgid "Unit"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:278
+#: elements/counter-box/counter-box-el.php:280
+msgid "Unit 1"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:350
+#: elements/counter-box/counter-box-el.php:352
+msgid "Unit 2"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:422
+#: elements/counter-box/counter-box-el.php:424
+msgid "Unit 3"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:494
+#: elements/counter-box/counter-box-el.php:496
+msgid "Unit 4"
+msgstr ""
+
+#: elements/events/events-el.php:63 elements/events/events.php:80
+msgid "Upcoming"
+msgstr ""
+
+#: elements/steps/steps-el.php:199 elements/counter-box/counter-box.php:142
+#: elements/counter-box/counter-box-el.php:132
+msgid "Upload"
+msgstr ""
+
+#: elements/heading/heading-el.php:101
+msgid "Upload Heading Icon"
+msgstr ""
+
+#: elements/heading/heading.php:102
+msgid "Upload Heading icon"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:84
+#: elements/new-iconbox/new-iconbox.php:97 elements/icon-box/icon-box.php:101
+#: elements/icon-box/icon-box-el.php:84 elements/steps/steps.php:215
+#: elements/steps/steps-el.php:234 elements/counter-box/counter-box.php:176
+#: elements/counter-box/counter-box-el.php:167
+msgid "Upload Icon"
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox-el.php:49
+#: elements/new-iconbox/new-iconbox.php:62 elements/icon-box/icon-box.php:63
+#: elements/icon-box/icon-box-el.php:49 elements/steps/steps.php:177
+msgid "Upload icon"
+msgstr ""
+
+#: elements/counter-box/counter-box-el.php:231
+msgid "Upload Icon Center"
+msgstr ""
+
+#: elements/counter-box/counter-box.php:220
+msgid "Upload Icon center"
+msgstr ""
+
+#: elements/new-post/new-post.php:137
+msgid "Upload Icon Image"
+msgstr ""
+
+#: elements/new-post/new-post-el.php:132
+msgid "Upload Icon In Featured Image"
+msgstr ""
+
+#: elements/image-box/image-box.php:56 elements/image-box/image-box-el.php:44
+msgid "Upload Image"
+msgstr ""
+
+#: elements/new-image-box/new-image-box-el.php:46
+#: elements/new-image-box/new-image-box.php:63
+msgid "Upload Image Background"
+msgstr ""
+
+#: inc/functions.php:1003 elements/user-info/user-info-el.php:44
+#: elements/user-info/user-info.php:56
+msgid "User ID"
+msgstr ""
+
+#: elements/user-info/user-info.php:59
+msgid "User ID ca be found in profile setting"
+msgstr ""
+
+#: elements/user-info/user-info-el.php:37
+msgid "User Info Settings"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:62
+msgid "Username"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:183
+msgid "Username or email"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:315
+msgid "Username or email *"
+msgstr ""
+
+#: elements/new-video/new-video-el.php:47
+msgid "Video Background"
+msgstr ""
+
+#: elements/video-box/video-box-el.php:39
+msgid "Video Box Settings"
+msgstr ""
+
+#: elements/video-box/video-box-el.php:108
+#: elements/video-box/video-box-el.php:110 elements/video-box/video-box.php:113
+msgid "Video content"
+msgstr ""
+
+#: elements/video-box/video-box-el.php:97
+#: elements/video-box/video-box-el.php:100 elements/video-box/video-box.php:107
+#: elements/new-video/new-video.php:91 elements/new-video/new-video-el.php:80
+msgid "Video Link"
+msgstr ""
+
+#: elements/new-video/new-video-el.php:40
+msgid "Video Simple Settings"
+msgstr ""
+
+#: elements/steps/steps.php:77 elements/steps/steps-el.php:82
+#: elements/steps/steps-el.php:84
+msgid "Video URL"
+msgstr ""
+
+#: elements/photo-wall/tpl/default.php:23
+msgid "View All"
+msgstr ""
+
+#: elements/courses-collection/courses-collection.php:117
+msgid "View all courses"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:129
+msgid "View Course"
+msgstr ""
+
+#: elements/courses-collection/tpl/squared-corner.php:48
+#: elements/courses-collection/tpl/lp3/squared-corner.php:61
+msgid "view courses"
+msgstr ""
+
+#: elements/events/tpl/event-4.php:137
+msgid "view event"
+msgstr ""
+
+#: inc/plugins/learnpress-tabs/learnpress-tabs.php:42
+msgid "Visibility"
+msgstr ""
+
+#: elements/brands/brands.php:88 elements/brands/brands-el.php:82
+msgid "Visible Items"
+msgstr ""
+
+#: elements/courses-collection/courses-collection-el.php:107
+#: elements/courses-collection/courses-collection.php:108
+msgid "We have the largest collection of courses"
+msgstr ""
+
+#: elements/course-search/course-search.php:66
+#: elements/course-search/course-search.php:103
+#: elements/course-search/course-search-el.php:48
+msgid "What do you want to learn today?"
+msgstr ""
+
+#: elements/steps/steps.php:103 elements/steps/steps-el.php:109
+msgid "With description"
+msgstr ""
+
+#: elements/icon-box/icon-box.php:179
+msgid "Write a Description of icon"
+msgstr ""
+
+#: elements/icon-box/icon-box-el.php:186
+msgid "Write a Description of icon."
+msgstr ""
+
+#: elements/new-iconbox/new-iconbox.php:190 elements/icon-box/icon-box.php:216
+msgid "Write the title of icon"
+msgstr ""
+
+#: elements/button/button-el.php:75 elements/button/button.php:79
+msgid "XSmall"
+msgstr ""
+
+#: elements/courses-block-1/courses-block-1.php:93
+#: elements/courses-block-2/courses-block-2.php:111
+#: elements/courses-block-3/courses-block-3.php:96
+#: elements/courses-block-3/courses-block-3.php:139
+#: elements/courses-megamenu/courses-megamenu.php:99
+#: elements/enroll-course/enroll-course.php:66
+#: elements/video-box/video-box.php:125 elements/photo-wall/photo-wall.php:101
+#: elements/photo-wall/photo-wall-el.php:103
+#: elements/gallery-carousel/gallery-carousel.php:97
+#: elements/brands/brands.php:118
+#: elements/courses-block-4/courses-block-4.php:125
+#: elements/courses-collection/courses-collection.php:87
+#: elements/courses-collection/courses-collection.php:167
+#: elements/courses-collection/courses-collection.php:185
+msgid "Yes"
+msgstr ""
+
+#: elements/gallery/gallery.php:107 elements/portfolio/portfolio.php:89
+#: elements/review-course/review-course.php:73
+msgid "yes"
+msgstr ""
+
+#: elements/login-form/tpl/form.php:19
+#: elements/register-form/tpl/default.php:16
+#, php-format
+msgid "You have logged in. <a href=\"%s\">Sign Out</a>"
+msgstr ""
+
+#: elements/register-form/tpl/default.php:53
+msgid "Your Email"
+msgstr ""
+
+#: elements/user-info/tpl/default.php:8
+msgid "Your Instructor"
+msgstr ""
+
+#: elements/register-form/tpl/default.php:48
+msgid "Your Name"
+msgstr ""
+
+#: elements/enroll-course/tpl/default.php:174
+msgid "Your order is processing. Please wait for approval."
+msgstr ""
+
+#: elements/login-form/tpl/form.php:160
+msgid "Your site does not allow users registration."
+msgstr ""
+
+#: elements/google-map/google-map-el.php:76
+#: elements/google-map/google-map.php:102
+msgid "Zoom level"
+msgstr ""

@@ -1,0 +1,64 @@
+.learnpress-v4 {
+	.lp-archive-courses .learn-press-courses .course .course-item .course-content .course-categories a:hover,
+	.learn-press-pagination .page-numbers > li .page-numbers.current,
+	.learn-press-pagination .page-numbers > li .page-numbers:hover,
+	input[type="radio"]:nth-child(3):checked ~ .switch-btn:nth-child(4):before,
+	input[type="radio"]:nth-child(1):checked ~ .switch-btn:nth-child(2):before {
+		color: #fff;
+	}
+
+	.lp-courses-bar .switch-layout .switch-btn {
+		background: #e7e7e7;
+	}
+
+	.lp-courses-bar .switch-layout .switch-btn:before {
+		color: #888;
+	}
+
+	&.learnpress.post-type-archive-lp_course .site-content {
+		padding-top: 50px;
+	}
+
+	.learn-press-breadcrumb,
+	.lp-archive-courses .learn-press-courses-header {
+		display: none;
+	}
+
+	.lp-archive-courses .learn-press-courses .course .course-item .course-content .course-instructor a {
+		color: #202121;
+	}
+
+	.page-title.layout-2 .breadcrumb-content .breadcrumbs-wrapper,
+	.lp-archive-courses .course-summary .course-summary-content .course-detail-info {
+		background: #665bd1;
+	}
+
+	.lp-archive-courses .course-summary .course-summary-content .lp-entry-content.lp-content-area .entry-content-left input[name="course-extra-box-ratio"] {
+		display: none;
+	}
+
+	#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item.course-item-lp_lesson .section-item-link:before {
+		content: '\f15b' !important;
+	}
+
+	#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item.course-item-lp_quiz .section-item-link:before {
+		content: '\f059' !important;
+	}
+
+	#learn-press-profile .wrapper-profile-header #profile-header .lp-profile-header__inner .lp-profile-username {
+		margin-left: 30px;
+	}
+
+	#learn-press-profile #profile-nav .lp-profile-nav-tabs li.active > a i,
+	#learn-press-profile #profile-nav .lp-profile-nav-tabs li.active > a:after,
+	#learn-press-profile #profile-nav .lp-profile-nav-tabs li:hover > a i,
+	#learn-press-profile #profile-nav .lp-profile-nav-tabs li:hover > a:after,
+	.lp-courses-bar .switch-layout .switch-btn:hover:before,
+	.lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item .meta-item__value label {
+		color: #fff;
+	}
+
+	#learn-press-course-tabs .course-tab-panels .course-tab-panel.course-tab-panel-reviews {
+		padding-left: 30px;
+	}
+}

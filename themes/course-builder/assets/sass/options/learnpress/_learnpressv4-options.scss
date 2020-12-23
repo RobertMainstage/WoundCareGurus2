@@ -1,0 +1,51 @@
+.learnpress-v4 {
+	.lp-archive-courses .learn-press-courses .course .course-item .course-content .course-instructor a:hover,
+	.lp-archive-courses .learn-press-courses .course .course-item .course-content .course-permalink .course-title:hover,
+	.lp-archive-courses .learn-press-courses .course .course-item .course-content .course-wrap-meta .meta-item:before,
+	.lp-archive-courses .learn-press-courses[data-layout="grid"] .course .course-item .course-content .course-info .course-footer .course-students:before,
+	.learn-press-breadcrumb li a:hover,
+	#learn-press-profile #profile-nav .lp-profile-nav-tabs > li > a > i {
+		color: $thim_body_primary_color;
+	}
+
+	.lp-archive-courses .learn-press-courses[data-layout="list"] .course .course-item .course-content .course-readmore a,
+	.lp-archive-courses .learn-press-courses .course .course-item .course-content .course-categories a:first-child,
+	#learn-press-course .course-summary-sidebar .course-sidebar-preview .lp-course-buttons button.button-enroll-course {
+		background: $thim_body_primary_color;
+	}
+
+	.lp-courses-bar .search-courses input[type="text"]:focus {
+		border-color: $thim_body_primary_color;
+	}
+
+	input[type="radio"]:nth-child(1):checked ~ .switch-btn:nth-child(2),
+	input[type="radio"]:nth-child(3):checked ~ .switch-btn:nth-child(4) {
+		background: $thim_body_primary_color;
+	}
+
+	.lp-courses-bar .switch-layout .switch-btn:hover,
+	ul.learn-press-nav-tabs .course-nav.active:before,
+	#learn-press-course .course-summary-sidebar .course-sidebar-preview .lp-course-buttons button,
+	#learn-press-profile #profile-nav .lp-profile-nav-tabs li.active, #learn-press-profile #profile-nav .lp-profile-nav-tabs li:hover {
+		background: $thim_body_primary_color;
+	}
+
+	.lp-archive-courses .learn-press-courses[data-layout="list"] .course .course-item .course-content .course-readmore a:hover,
+	.lp-archive-courses .learn-press-courses .course .course-item .course-content .course-categories a:first-child:hover,
+	#learn-press-course .course-summary-sidebar .course-sidebar-preview .lp-course-buttons button.button-enroll-course:hover,
+	#learn-press-course .course-summary-sidebar .course-sidebar-preview .lp-course-buttons button:hover {
+		background: darken($thim_body_primary_color, 20%);
+	}
+
+	.lp-archive-courses .course-summary .course-summary-content .course-detail-info .course-info-left .course-meta .course-meta__pull-left .meta-item:before,
+	#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item .section-item-link:before,
+	#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item .section-item-link:hover .item-name,
+	.course-extra-box .course-extra-box__content li:before {
+		color: $thim_body_primary_color;
+	}
+
+	ul.learn-press-nav-tabs .course-nav.active label {
+		color: $thim_body_primary_color !important;
+	}
+
+}

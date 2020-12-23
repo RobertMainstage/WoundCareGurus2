@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20201216T140000
+DTEND:20201216T140000
+SUMMARY:Effective Wound Healing: Getting Back to the Basics
+ORGANIZER:MAILTO:bill@woundcaregurus.com
+LOCATION:WoundCareGurus.com
+URL:https://woundcaregurus.com/courses/effective-wound-healing-getting-back-to-the-basics/
+DESCRIPTION:This session discusses the 6 basics to effective healing, how to implement those basics and the importance of implementing evidence-based wound care approaches.
+CLASS:PUBLIC
+PRIORITY:3
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
