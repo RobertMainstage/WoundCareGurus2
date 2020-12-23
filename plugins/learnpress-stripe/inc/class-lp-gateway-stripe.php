@@ -339,7 +339,7 @@ if ( ! class_exists( 'LP_Gateway_Stripe' ) ) {
 				$pi = isset( $stripe->id ) ? $stripe->id : '';
 
 				if ( ! empty( $pi ) ) {
-					
+
 					//$confim = $this->confim_payment_stripe( $pi );
 
 					//if ( ! empty( $confim->error->message ) ) {
@@ -396,7 +396,7 @@ if ( ! class_exists( 'LP_Gateway_Stripe' ) ) {
 					'site_url'       => $this->form_data['site_url'],
 
 				);
-				
+
 				$stripe_charge_data['capture_method']       = 'automatic';
 				$stripe_charge_data['payment_method_types'] = $this->form_data['payment_method_types'];
 
